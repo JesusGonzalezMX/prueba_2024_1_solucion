@@ -83,11 +83,16 @@ print("razones_wide creado")
 
 
 
-output_wide.wide_to_long().to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
+
+
+stubnames = [col+"_" for col in columns]
+
+
+output_long = pd.wide_to_long(output_wide.reset_index(names=['index']), stubnames, i='index', j='year', sep='_', suffix='^[12][0-9]{3}$')
+
+
+output_long.to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
 print("razones_long creado")
-
-
-  
         
 
  
