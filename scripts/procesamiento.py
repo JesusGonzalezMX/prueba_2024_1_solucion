@@ -69,6 +69,7 @@ for pdf in pdf_list:
 
     df = pd.DataFrame(csv)
     df = df.set_index(df.columns[0])
+    print(columns)
     columns_year = [col+"_"+year for col in columns]
     df.columns = columns_year
     #df.to_csv("../data/procesamiento_salidas/datos_anuales/razones_"+year+".csv", sep=',', encoding='utf-8')
