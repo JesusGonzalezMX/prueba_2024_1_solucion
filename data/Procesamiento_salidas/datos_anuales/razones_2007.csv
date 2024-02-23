@@ -1,0 +1,10 @@
+0,Gasoline_2007,Diesel_fuel_2007,Liquified_petroleum_gas_2007,Jet_fuel_2007,Residual_fuel_oil_2007,Natural_gas_2007,Electricity_2007,Total_2007
+HIGHWAY ,17022.5,5288.9,62.4,18.4,0.6,22392.7,,
+Light vehicles,16485.5,394.5,44.9,16924.9,,,,
+Buses,6.9,167.7,18.4,0.6,193.7,,,
+Medium/heavy trucks,530.1,4726.6,17.5,5274.2,,,,
+NONHIGHWAY,,,,,,,,
+Air,38.9,0.0,0.0,2470.5,0.0,0.0,0.0,2509.5
+Water,202.7,344.2,1012.1,1559.1,,,,
+Pipeline,0.0,0.0,0.0,0.0,0.0,642.2,241.3,883.5
+Rail,0.0,586.7,0.0,0.0,0.0,0.0,70.8,657.5

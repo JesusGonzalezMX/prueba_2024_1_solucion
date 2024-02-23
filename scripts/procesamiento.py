@@ -10,8 +10,9 @@ columns = ['Gasoline', 'Diesel_fuel', 'Liquified_petroleum_gas','Jet_fuel','Resi
     
 
 # Recuperamos la lista de los archivos PDF
-path = "../raw_data/"
+path = "../data/raw_data/"
 pdf_list = os.listdir(path)
+output_wide = pd.DataFrame() 
 
 # Iteramos en cada archivo para encontrar la 
 # pagina donde se encuentra la informacion 
@@ -68,10 +69,23 @@ for pdf in pdf_list:
 
     df = pd.DataFrame(csv)
     df = df.set_index(df.columns[0])
-    columns = [col+"_"+year for col in columns]
-    df.columns = columns
-    df.to_csv("../data/procesamiento_salidas/datos_anuales/razones_"+year, sep=',', encoding='utf-8')
+    columns_year = [col+"_"+year for col in columns]
+    df.columns = columns_year
+    #df.to_csv("../data/procesamiento_salidas/datos_anuales/razones_"+year+".csv", sep=',', encoding='utf-8')
     print("df para ",year," creado")
+
+    output_wide = pd.concat([output_wide, df], axis=1)
+
+
+output_wide.to_csv("../data/procesamiento_salidas/razones_wide.csv", sep=',', encoding='utf-8')
+print("razones_wide creado")
+
+output_long = pd.melt(output_wide.reset_index(), id_vars = ['index'], value_vars=output_wide.columns)
+
+
+output_long.to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
+print("razones_wide creado")
+
 
   
         
