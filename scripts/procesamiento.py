@@ -72,13 +72,13 @@ for pdf in pdf_list:
     #print(columns)
     columns_year = [col+"_"+year for col in columns]
     df.columns = columns_year
-    df.to_csv("../data/procesamiento_salidas/datos_anuales/razones_"+year+".csv", sep=',', encoding='utf-8')
+    df.fillna('0').replace('-', '0').to_csv("../data/procesamiento_salidas/datos_anuales/razones_"+year+".csv", sep=',', encoding='utf-8')
     print("df para ",year," creado")
 
     output_wide = pd.concat([output_wide, df], axis=1)
 
 
-output_wide.to_csv("../data/procesamiento_salidas/razones_wide.csv", sep=',', encoding='utf-8')
+output_wide.fillna('0').replace('-', '0').to_csv("../data/procesamiento_salidas/razones_wide.csv", sep=',', encoding='utf-8')
 print("razones_wide creado")
 
 
@@ -90,7 +90,7 @@ print("razones_wide creado")
 #output_long = pd.wide_to_long(output_wide.reset_index(names=['index']), stubnames = columns, i='index', j='year')
 output_long = pd.melt(output_wide.reset_index(names=['index']), id_vars='index', value_vars= output_wide.columns) 
 
-output_long.sort_values(by=['index','']).to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
+output_long.fillna('0').replace('-', '0').sort_values(by=['index','variable']).to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
 print("razones_long creado")
         
 
