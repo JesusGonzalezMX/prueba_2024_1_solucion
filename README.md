@@ -15,7 +15,7 @@ Para tener una solución exitosa se usó un “Developer container” o “Dev C
 
 Este contenedor es muy fácil e intuitivo de usar desde visual studio code, pues basta con clonar el repositorio allí y automáticamente una ventana pregunta si se desea abrir el repositorio usando el contenedor, los únicos requisitos además de tener visual studio code, es tener instalado Docker y la extensión “Dev containers” para visual studio.
 
-### Solucion
+### Solución
 Para mas detalles de la solucion se puede revisar la documentacion:
 - [Solución a la Prueba - 2024-1](https://github.com/JesusGonzalezMX/prueba_2024_1_solucion/blob/main/docs/documentacion.pdf).
   
