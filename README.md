@@ -18,8 +18,8 @@ Este contenedor es muy fácil e intuitivo de usar desde visual studio code, pues
 
 ### Solucion
 Para mas detalles de la solucion se puede revisar la documentacion:
-[Solución a la Prueba - 2024-1](https://github.com/JesusGonzalezMX/prueba_2024_1_solucion/blob/main/docs/Solucion%20a%20la%20prueba%20-%20documentacion.pdf).
+[Solución a la Prueba - 2024-1](https://github.com/JesusGonzalezMX/prueba_2024_1_solucion/blob/main/docs/documentacion.pdf).
 Las visualizaciones generadas estan tambien en esta carpeta:
-[visualizacion · Streamlit.pdf](https://github.com/JesusGonzalezMX/prueba_2024_1_solucion/blob/main/docs/visualizacion%20%C2%B7%20Streamlit.pdf).
+[visualizacion · Streamlit.pdf](https://github.com/JesusGonzalezMX/prueba_2024_1_solucion/blob/main/docs/visualizacion.pdf).
 
 
