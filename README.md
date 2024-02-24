@@ -5,7 +5,6 @@
 - En el folder “.devcontainer” se encuentran las configuraciones necesarias para hacer de este proyecto reproducible, consistente y fácil de compartir, de esto se hablara mas adelante.
 - En el folder data están los recursos descargados y los archivos generados al procesar estos recursos, en formato long y wide.
 - Finalmente en el folder scripts, como su nombre lo indica esta el código que da solución a los requerimientos del problema.
-Cabe destacar que existe un documento de requerimientos “requirements.txt” que será usado para crear el contenedor con todo lo necesario para correr los scripts de la solución.
 - Cabe destacar que existe un documento de requerimientos “requirements.txt” que será usado para crear el contenedor con todo lo necesario para correr los scripts de la solución.
 
 ### Entorno de desarrollo
