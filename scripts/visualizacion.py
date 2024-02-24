@@ -42,7 +42,7 @@ en especifico el archivo en formato long "/data/Procesamiento_salidas/razones_lo
 """)
 
 #separamos la columna del año para un mejor manejo de la informacion
-st.write(df)
+st.write(df.head())
 
 
 st.header('Evolucion del consumo domestico por modo de transporte')
