@@ -82,15 +82,17 @@ output_wide.fillna('0').replace('-', '0').to_csv("../data/procesamiento_salidas/
 print("razones_wide creado")
 
 
-
-
-
 #stubnames = [col+"_" for col in columns]
 
 #output_long = pd.wide_to_long(output_wide.reset_index(names=['index']), stubnames = columns, i='index', j='year')
 output_long = pd.melt(output_wide.reset_index(names=['index']), id_vars='index', value_vars= output_wide.columns) 
 
-output_long.fillna('0').replace('-', '0').sort_values(by=['index','variable']).to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8')
+#.sort_values(by=['index','variable']) \
+output_long.fillna('0').replace('-', '0') \
+.rename({'index': 'modo_transporte'}, axis='columns') \
+.rename({'variable': 'tipo_combustible'}, axis='columns') \
+.rename({'value': 'valor'}, axis='columns') \
+.to_csv("../data/procesamiento_salidas/razones_long.csv", sep=',', encoding='utf-8', index=False)
 print("razones_long creado")
         
 

@@ -1,937 +1,937 @@
-,index,variable,value
-14,Air,Diesel_fuel_2007,0.0
-86,Air,Diesel_fuel_2008,0.0
-158,Air,Diesel_fuel_2009,0.0
-230,Air,Diesel_fuel_2010,0
-302,Air,Diesel_fuel_2011,0
-374,Air,Diesel_fuel_2012,0
-446,Air,Diesel_fuel_2013,0
-518,Air,Diesel_fuel_2014,0
-590,Air,Diesel_fuel_2015,0
-662,Air,Diesel_fuel_2016,0
-734,Air,Diesel_fuel_2017,0
-806,Air,Diesel_fuel_2018,0
-878,Air,Diesel_fuel_2019,0
-59,Air,Electricity_2007,0.0
-131,Air,Electricity_2008,0.0
-203,Air,Electricity_2009,0.0
-275,Air,Electricity_2010,0
-347,Air,Electricity_2011,0
-419,Air,Electricity_2012,0
-491,Air,Electricity_2013,0
-563,Air,Electricity_2014,0
-635,Air,Electricity_2015,0
-707,Air,Electricity_2016,0
-779,Air,Electricity_2017,0
-851,Air,Electricity_2018,0
-923,Air,Electricity_2019,0
-5,Air,Gasoline_2007,38.9
-77,Air,Gasoline_2008,37.7
-149,Air,Gasoline_2009,38.2
-221,Air,Gasoline_2010,25.3
-293,Air,Gasoline_2011,25.9
-365,Air,Gasoline_2012,27.4
-437,Air,Gasoline_2013,20.9
-509,Air,Gasoline_2014,24.7
-581,Air,Gasoline_2015,22.0
-653,Air,Gasoline_2016,22.6
-725,Air,Gasoline_2017,22.6
-797,Air,Gasoline_2018,26.7
-869,Air,Gasoline_2019,22.6
-32,Air,Jet_fuel_2007,2470.5
-104,Air,Jet_fuel_2008,2355.6
-176,Air,Jet_fuel_2009,2099.3
-248,Air,Jet_fuel_2010,2122.4
-320,Air,Jet_fuel_2011,2136.2
-392,Air,Jet_fuel_2012,2064.5
-464,Air,Jet_fuel_2013,2016.1
-536,Air,Jet_fuel_2014,2038.6
-608,Air,Jet_fuel_2015,2095.6
-680,Air,Jet_fuel_2016,2155.5
-752,Air,Jet_fuel_2017,2208.2
-824,Air,Jet_fuel_2018,2331.5
-896,Air,Jet_fuel_2019,2347.4
-23,Air,Liquified_petroleum_gas_2007,0.0
-95,Air,Liquified_petroleum_gas_2008,0.0
-167,Air,Liquified_petroleum_gas_2009,0.0
-239,Air,Liquified_petroleum_gas_2010,0
-311,Air,Liquified_petroleum_gas_2011,0
-383,Air,Liquified_petroleum_gas_2012,0
-455,Air,Liquified_petroleum_gas_2013,0
-527,Air,Liquified_petroleum_gas_2014,0
-599,Air,Liquified_petroleum_gas_2015,0
-671,Air,Liquified_petroleum_gas_2016,0
-743,Air,Liquified_petroleum_gas_2017,0
-815,Air,Liquified_petroleum_gas_2018,0
-887,Air,Liquified_petroleum_gas_2019,0
-50,Air,Natural_gas_2007,0.0
-122,Air,Natural_gas_2008,0.0
-194,Air,Natural_gas_2009,0.0
-266,Air,Natural_gas_2010,0
-338,Air,Natural_gas_2011,0
-410,Air,Natural_gas_2012,0
-482,Air,Natural_gas_2013,0
-554,Air,Natural_gas_2014,0
-626,Air,Natural_gas_2015,0
-698,Air,Natural_gas_2016,0
-770,Air,Natural_gas_2017,0
-842,Air,Natural_gas_2018,0
-914,Air,Natural_gas_2019,0
-41,Air,Residual_fuel_oil_2007,0.0
-113,Air,Residual_fuel_oil_2008,0.0
-185,Air,Residual_fuel_oil_2009,0.0
-257,Air,Residual_fuel_oil_2010,0
-329,Air,Residual_fuel_oil_2011,0
-401,Air,Residual_fuel_oil_2012,0
-473,Air,Residual_fuel_oil_2013,0
-545,Air,Residual_fuel_oil_2014,0
-617,Air,Residual_fuel_oil_2015,0
-689,Air,Residual_fuel_oil_2016,0
-761,Air,Residual_fuel_oil_2017,0
-833,Air,Residual_fuel_oil_2018,0
-905,Air,Residual_fuel_oil_2019,0
-68,Air,Total_2007,2509.5
-140,Air,Total_2008,2393.3
-212,Air,Total_2009,2137.5
-284,Air,Total_2010,2147.6
-356,Air,Total_2011,2162.1
-428,Air,Total_2012,2091.9
-500,Air,Total_2013,2037.0
-572,Air,Total_2014,2063.3
-644,Air,Total_2015,2117.7
-716,Air,Total_2016,2178.1
-788,Air,Total_2017,2230.8
-860,Air,Total_2018,2358.2
-932,Air,Total_2019,2370.0
-11,Buses,Diesel_fuel_2007,167.7
-83,Buses,Diesel_fuel_2008,171.5
-155,Buses,Diesel_fuel_2009,169.5
-227,Buses,Diesel_fuel_2010,162.3
-299,Buses,Diesel_fuel_2011,165.9
-371,Buses,Diesel_fuel_2012,171.1
-443,Buses,Diesel_fuel_2013,173.7
-515,Buses,Diesel_fuel_2014,174.0
-587,Buses,Diesel_fuel_2015,170.9
-659,Buses,Diesel_fuel_2016,173.4
-731,Buses,Diesel_fuel_2017,185.0
-803,Buses,Diesel_fuel_2018,189.6
-875,Buses,Diesel_fuel_2019,186.3
-56,Buses,Electricity_2007,0
-128,Buses,Electricity_2008,0
-200,Buses,Electricity_2009,0
-272,Buses,Electricity_2010,0
-344,Buses,Electricity_2011,0
-416,Buses,Electricity_2012,0
-488,Buses,Electricity_2013,0.7
-560,Buses,Electricity_2014,0.7
-632,Buses,Electricity_2015,0.3
-704,Buses,Electricity_2016,0.3
-776,Buses,Electricity_2017,0.2
-848,Buses,Electricity_2018,0.2
-920,Buses,Electricity_2019,0.2
-2,Buses,Gasoline_2007,6.9
-74,Buses,Gasoline_2008,7.2
-146,Buses,Gasoline_2009,7.8
-218,Buses,Gasoline_2010,7.7
-290,Buses,Gasoline_2011,7.8
-362,Buses,Gasoline_2012,8.7
-434,Buses,Gasoline_2013,8.9
-506,Buses,Gasoline_2014,9.2
-578,Buses,Gasoline_2015,8.9
-650,Buses,Gasoline_2016,8.9
-722,Buses,Gasoline_2017,9.9
-794,Buses,Gasoline_2018,10.5
-866,Buses,Gasoline_2019,10.4
-29,Buses,Jet_fuel_2007,0.6
-101,Buses,Jet_fuel_2008,20.4
-173,Buses,Jet_fuel_2009,22.0
-245,Buses,Jet_fuel_2010,19.6
-317,Buses,Jet_fuel_2011,20.2
-389,Buses,Jet_fuel_2012,19.4
-461,Buses,Jet_fuel_2013,0
-533,Buses,Jet_fuel_2014,0
-605,Buses,Jet_fuel_2015,0
-677,Buses,Jet_fuel_2016,0
-749,Buses,Jet_fuel_2017,0
-821,Buses,Jet_fuel_2018,0
-893,Buses,Jet_fuel_2019,0
-20,Buses,Liquified_petroleum_gas_2007,18.4
-92,Buses,Liquified_petroleum_gas_2008,0.0
-164,Buses,Liquified_petroleum_gas_2009,0.0
-236,Buses,Liquified_petroleum_gas_2010,0
-308,Buses,Liquified_petroleum_gas_2011,0
-380,Buses,Liquified_petroleum_gas_2012,0
-452,Buses,Liquified_petroleum_gas_2013,0.6
-524,Buses,Liquified_petroleum_gas_2014,0.6
-596,Buses,Liquified_petroleum_gas_2015,0.7
-668,Buses,Liquified_petroleum_gas_2016,0.6
-740,Buses,Liquified_petroleum_gas_2017,0.6
-812,Buses,Liquified_petroleum_gas_2018,0.3
-884,Buses,Liquified_petroleum_gas_2019,0.2
-47,Buses,Natural_gas_2007,0
-119,Buses,Natural_gas_2008,199.8
-191,Buses,Natural_gas_2009,200.0
-263,Buses,Natural_gas_2010,190.2
-335,Buses,Natural_gas_2011,194.4
-407,Buses,Natural_gas_2012,199.8
-479,Buses,Natural_gas_2013,20.3
-551,Buses,Natural_gas_2014,21.7
-623,Buses,Natural_gas_2015,21.9
-695,Buses,Natural_gas_2016,23.3
-767,Buses,Natural_gas_2017,24.6
-839,Buses,Natural_gas_2018,25.4
-911,Buses,Natural_gas_2019,26.7
-38,Buses,Residual_fuel_oil_2007,193.7
-110,Buses,Residual_fuel_oil_2008,0.6
-182,Buses,Residual_fuel_oil_2009,0.7
-254,Buses,Residual_fuel_oil_2010,0.7
-326,Buses,Residual_fuel_oil_2011,0.6
-398,Buses,Residual_fuel_oil_2012,0.6
-470,Buses,Residual_fuel_oil_2013,0
-542,Buses,Residual_fuel_oil_2014,0
-614,Buses,Residual_fuel_oil_2015,0
-686,Buses,Residual_fuel_oil_2016,0
-758,Buses,Residual_fuel_oil_2017,0
-830,Buses,Residual_fuel_oil_2018,0
-902,Buses,Residual_fuel_oil_2019,0
-65,Buses,Total_2007,0
-137,Buses,Total_2008,0
-209,Buses,Total_2009,0
-281,Buses,Total_2010,0
-353,Buses,Total_2011,0
-425,Buses,Total_2012,0
-497,Buses,Total_2013,204.1
-569,Buses,Total_2014,206.1
-641,Buses,Total_2015,202.7
-713,Buses,Total_2016,206.5
-785,Buses,Total_2017,220.3
-857,Buses,Total_2018,225.9
-929,Buses,Total_2019,223.8
-9,HIGHWAY ,Diesel_fuel_2007,5288.9
-81,HIGHWAY ,Diesel_fuel_2008,5060.8
-153,HIGHWAY ,Diesel_fuel_2009,6013.6
-225,HIGHWAY ,Diesel_fuel_2010,6077.8
-297,HIGHWAY ,Diesel_fuel_2011,5751.1
-369,HIGHWAY ,Diesel_fuel_2012,5755.4
-441,HIGHWAY ,Diesel_fuel_2013,5885.8
-513,HIGHWAY ,Diesel_fuel_2014,5992.4
-585,HIGHWAY ,Diesel_fuel_2015,5947.2
-657,HIGHWAY ,Diesel_fuel_2016,6121.0
-729,HIGHWAY ,Diesel_fuel_2017,6266.5
-801,HIGHWAY ,Diesel_fuel_2018,6324.3
-873,HIGHWAY ,Diesel_fuel_2019,6237.2
-54,HIGHWAY ,Electricity_2007,0
-126,HIGHWAY ,Electricity_2008,0
-198,HIGHWAY ,Electricity_2009,0
-270,HIGHWAY ,Electricity_2010,0.7
-342,HIGHWAY ,Electricity_2011,0.6
-414,HIGHWAY ,Electricity_2012,0.6
-486,HIGHWAY ,Electricity_2013,0.7
-558,HIGHWAY ,Electricity_2014,3.7
-630,HIGHWAY ,Electricity_2015,3.7
-702,HIGHWAY ,Electricity_2016,5.0
-774,HIGHWAY ,Electricity_2017,6.8
-846,HIGHWAY ,Electricity_2018,9.8
-918,HIGHWAY ,Electricity_2019,14.2
-0,HIGHWAY ,Gasoline_2007,17022.5
-72,HIGHWAY ,Gasoline_2008,16513.8
-144,HIGHWAY ,Gasoline_2009,16661.4
-216,HIGHWAY ,Gasoline_2010,16437.3
-288,HIGHWAY ,Gasoline_2011,15978.9
-360,HIGHWAY ,Gasoline_2012,15493.3
-432,HIGHWAY ,Gasoline_2013,15335.0
-504,HIGHWAY ,Gasoline_2014,15653.4
-576,HIGHWAY ,Gasoline_2015,15343.4
-648,HIGHWAY ,Gasoline_2016,15650.2
-720,HIGHWAY ,Gasoline_2017,15495.3
-792,HIGHWAY ,Gasoline_2018,15366.1
-864,HIGHWAY ,Gasoline_2019,15278.3
-27,HIGHWAY ,Jet_fuel_2007,18.4
-99,HIGHWAY ,Jet_fuel_2008,20.4
-171,HIGHWAY ,Jet_fuel_2009,22.0
-243,HIGHWAY ,Jet_fuel_2010,0
-315,HIGHWAY ,Jet_fuel_2011,0
-387,HIGHWAY ,Jet_fuel_2012,0
-459,HIGHWAY ,Jet_fuel_2013,0
-531,HIGHWAY ,Jet_fuel_2014,0
-603,HIGHWAY ,Jet_fuel_2015,0
-675,HIGHWAY ,Jet_fuel_2016,0
-747,HIGHWAY ,Jet_fuel_2017,0
-819,HIGHWAY ,Jet_fuel_2018,0
-891,HIGHWAY ,Jet_fuel_2019,0
-18,HIGHWAY ,Liquified_petroleum_gas_2007,62.4
-90,HIGHWAY ,Liquified_petroleum_gas_2008,61.5
-162,HIGHWAY ,Liquified_petroleum_gas_2009,65.3
-234,HIGHWAY ,Liquified_petroleum_gas_2010,67.5
-306,HIGHWAY ,Liquified_petroleum_gas_2011,64.6
-378,HIGHWAY ,Liquified_petroleum_gas_2012,67.8
-450,HIGHWAY ,Liquified_petroleum_gas_2013,68.2
-522,HIGHWAY ,Liquified_petroleum_gas_2014,71.1
-594,HIGHWAY ,Liquified_petroleum_gas_2015,70.1
-666,HIGHWAY ,Liquified_petroleum_gas_2016,74.5
-738,HIGHWAY ,Liquified_petroleum_gas_2017,75.5
-810,HIGHWAY ,Liquified_petroleum_gas_2018,75.3
-882,HIGHWAY ,Liquified_petroleum_gas_2019,76.4
-45,HIGHWAY ,Natural_gas_2007,22392.7
-117,HIGHWAY ,Natural_gas_2008,21657.1
-189,HIGHWAY ,Natural_gas_2009,22763.0
-261,HIGHWAY ,Natural_gas_2010,19.6
-333,HIGHWAY ,Natural_gas_2011,20.2
-405,HIGHWAY ,Natural_gas_2012,19.4
-477,HIGHWAY ,Natural_gas_2013,20.3
-549,HIGHWAY ,Natural_gas_2014,21.7
-621,HIGHWAY ,Natural_gas_2015,21.9
-693,HIGHWAY ,Natural_gas_2016,23.3
-765,HIGHWAY ,Natural_gas_2017,24.6
-837,HIGHWAY ,Natural_gas_2018,25.4
-909,HIGHWAY ,Natural_gas_2019,26.7
-36,HIGHWAY ,Residual_fuel_oil_2007,0.6
-108,HIGHWAY ,Residual_fuel_oil_2008,0.6
-180,HIGHWAY ,Residual_fuel_oil_2009,0.7
-252,HIGHWAY ,Residual_fuel_oil_2010,0
-324,HIGHWAY ,Residual_fuel_oil_2011,0
-396,HIGHWAY ,Residual_fuel_oil_2012,0
-468,HIGHWAY ,Residual_fuel_oil_2013,0
-540,HIGHWAY ,Residual_fuel_oil_2014,0
-612,HIGHWAY ,Residual_fuel_oil_2015,0
-684,HIGHWAY ,Residual_fuel_oil_2016,0
-756,HIGHWAY ,Residual_fuel_oil_2017,0
-828,HIGHWAY ,Residual_fuel_oil_2018,0
-900,HIGHWAY ,Residual_fuel_oil_2019,0
-63,HIGHWAY ,Total_2007,0
-135,HIGHWAY ,Total_2008,0
-207,HIGHWAY ,Total_2009,0
-279,HIGHWAY ,Total_2010,22602.9
-351,HIGHWAY ,Total_2011,21815.3
-423,HIGHWAY ,Total_2012,21336.6
-495,HIGHWAY ,Total_2013,21309.9
-567,HIGHWAY ,Total_2014,21742.3
-639,HIGHWAY ,Total_2015,21386.3
-711,HIGHWAY ,Total_2016,21873.9
-783,HIGHWAY ,Total_2017,21868.7
-855,HIGHWAY ,Total_2018,21800.9
-927,HIGHWAY ,Total_2019,21632.8
-10,Light vehicles,Diesel_fuel_2007,394.5
-82,Light vehicles,Diesel_fuel_2008,389.1
-154,Light vehicles,Diesel_fuel_2009,391.4
-226,Light vehicles,Diesel_fuel_2010,403.4
-298,Light vehicles,Diesel_fuel_2011,389.5
-370,Light vehicles,Diesel_fuel_2012,408.5
-442,Light vehicles,Diesel_fuel_2013,403.4
-514,Light vehicles,Diesel_fuel_2014,422.0
-586,Light vehicles,Diesel_fuel_2015,414.1
-658,Light vehicles,Diesel_fuel_2016,443.2
-730,Light vehicles,Diesel_fuel_2017,445.9
-802,Light vehicles,Diesel_fuel_2018,444.9
-874,Light vehicles,Diesel_fuel_2019,454.5
-55,Light vehicles,Electricity_2007,0
-127,Light vehicles,Electricity_2008,0
-199,Light vehicles,Electricity_2009,0
-271,Light vehicles,Electricity_2010,0
-343,Light vehicles,Electricity_2011,0
-415,Light vehicles,Electricity_2012,0
-487,Light vehicles,Electricity_2013,0
-559,Light vehicles,Electricity_2014,3.0
-631,Light vehicles,Electricity_2015,3.4
-703,Light vehicles,Electricity_2016,4.7
-775,Light vehicles,Electricity_2017,6.6
-847,Light vehicles,Electricity_2018,9.6
-919,Light vehicles,Electricity_2019,14.0
-1,Light vehicles,Gasoline_2007,16485.5
-73,Light vehicles,Gasoline_2008,16001.9
-145,Light vehicles,Gasoline_2009,16042.1
-217,Light vehicles,Gasoline_2010,15811.5
-289,Light vehicles,Gasoline_2011,15388.4
-361,Light vehicles,Gasoline_2012,14904.2
-433,Light vehicles,Gasoline_2013,14730.7
-505,Light vehicles,Gasoline_2014,15039.0
-577,Light vehicles,Gasoline_2015,14733.1
-649,Light vehicles,Gasoline_2016,15023.9
-721,Light vehicles,Gasoline_2017,14853.3
-793,Light vehicles,Gasoline_2018,14717.5
-865,Light vehicles,Gasoline_2019,14640.3
-28,Light vehicles,Jet_fuel_2007,16924.9
-100,Light vehicles,Jet_fuel_2008,0.0
-172,Light vehicles,Jet_fuel_2009,0.0
-244,Light vehicles,Jet_fuel_2010,0
-316,Light vehicles,Jet_fuel_2011,0
-388,Light vehicles,Jet_fuel_2012,0
-460,Light vehicles,Jet_fuel_2013,0
-532,Light vehicles,Jet_fuel_2014,0
-604,Light vehicles,Jet_fuel_2015,0
-676,Light vehicles,Jet_fuel_2016,0
-748,Light vehicles,Jet_fuel_2017,0
-820,Light vehicles,Jet_fuel_2018,0
-892,Light vehicles,Jet_fuel_2019,0
-19,Light vehicles,Liquified_petroleum_gas_2007,44.9
-91,Light vehicles,Liquified_petroleum_gas_2008,44.7
-163,Light vehicles,Liquified_petroleum_gas_2009,45.0
-235,Light vehicles,Liquified_petroleum_gas_2010,47.0
-307,Light vehicles,Liquified_petroleum_gas_2011,45.2
-379,Light vehicles,Liquified_petroleum_gas_2012,48.5
-451,Light vehicles,Liquified_petroleum_gas_2013,47.9
-523,Light vehicles,Liquified_petroleum_gas_2014,50.4
-595,Light vehicles,Liquified_petroleum_gas_2015,49.5
-667,Light vehicles,Liquified_petroleum_gas_2016,53.4
-739,Light vehicles,Liquified_petroleum_gas_2017,53.9
-811,Light vehicles,Liquified_petroleum_gas_2018,53.9
-883,Light vehicles,Liquified_petroleum_gas_2019,55.4
-46,Light vehicles,Natural_gas_2007,0
-118,Light vehicles,Natural_gas_2008,16435.7
-190,Light vehicles,Natural_gas_2009,16478.5
-262,Light vehicles,Natural_gas_2010,16261.8
-334,Light vehicles,Natural_gas_2011,15823.1
-406,Light vehicles,Natural_gas_2012,15361.2
-478,Light vehicles,Natural_gas_2013,0
-550,Light vehicles,Natural_gas_2014,0
-622,Light vehicles,Natural_gas_2015,0
-694,Light vehicles,Natural_gas_2016,0
-766,Light vehicles,Natural_gas_2017,0
-838,Light vehicles,Natural_gas_2018,0
-910,Light vehicles,Natural_gas_2019,0
-37,Light vehicles,Residual_fuel_oil_2007,0
-109,Light vehicles,Residual_fuel_oil_2008,0.0
-181,Light vehicles,Residual_fuel_oil_2009,0.0
-253,Light vehicles,Residual_fuel_oil_2010,0
-325,Light vehicles,Residual_fuel_oil_2011,0
-397,Light vehicles,Residual_fuel_oil_2012,c
-469,Light vehicles,Residual_fuel_oil_2013,0
-541,Light vehicles,Residual_fuel_oil_2014,0
-613,Light vehicles,Residual_fuel_oil_2015,0
-685,Light vehicles,Residual_fuel_oil_2016,0
-757,Light vehicles,Residual_fuel_oil_2017,0
-829,Light vehicles,Residual_fuel_oil_2018,0
-901,Light vehicles,Residual_fuel_oil_2019,0
-64,Light vehicles,Total_2007,0
-136,Light vehicles,Total_2008,0
-208,Light vehicles,Total_2009,0
-280,Light vehicles,Total_2010,0
-352,Light vehicles,Total_2011,0
-424,Light vehicles,Total_2012,0
-496,Light vehicles,Total_2013,15182.0
-568,Light vehicles,Total_2014,15514.4
-640,Light vehicles,Total_2015,15200.1
-712,Light vehicles,Total_2016,15525.3
-784,Light vehicles,Total_2017,15359.8
-856,Light vehicles,Total_2018,15225.9
-928,Light vehicles,Total_2019,15164.2
-12,Medium/heavy trucks,Diesel_fuel_2007,4726.6
-84,Medium/heavy trucks,Diesel_fuel_2008,4500.2
-156,Medium/heavy trucks,Diesel_fuel_2009,5452.7
-228,Medium/heavy trucks,Diesel_fuel_2010,5512.2
-300,Medium/heavy trucks,Diesel_fuel_2011,5195.8
-372,Medium/heavy trucks,Diesel_fuel_2012,5175.8
-444,Medium/heavy trucks,Diesel_fuel_2013,5308.7
-516,Medium/heavy trucks,Diesel_fuel_2014,5396.3
-588,Medium/heavy trucks,Diesel_fuel_2015,5362.3
-660,Medium/heavy trucks,Diesel_fuel_2016,5504.4
-732,Medium/heavy trucks,Diesel_fuel_2017,5635.6
-804,Medium/heavy trucks,Diesel_fuel_2018,5689.8
-876,Medium/heavy trucks,Diesel_fuel_2019,5596.4
-57,Medium/heavy trucks,Electricity_2007,0
-129,Medium/heavy trucks,Electricity_2008,0
-201,Medium/heavy trucks,Electricity_2009,0
-273,Medium/heavy trucks,Electricity_2010,0
-345,Medium/heavy trucks,Electricity_2011,0
-417,Medium/heavy trucks,Electricity_2012,0
-489,Medium/heavy trucks,Electricity_2013,0
-561,Medium/heavy trucks,Electricity_2014,0
-633,Medium/heavy trucks,Electricity_2015,0
-705,Medium/heavy trucks,Electricity_2016,0
-777,Medium/heavy trucks,Electricity_2017,0
-849,Medium/heavy trucks,Electricity_2018,0
-921,Medium/heavy trucks,Electricity_2019,0
-3,Medium/heavy trucks,Gasoline_2007,530.1
-75,Medium/heavy trucks,Gasoline_2008,504.7
-147,Medium/heavy trucks,Gasoline_2009,611.5
-219,Medium/heavy trucks,Gasoline_2010,618.2
-291,Medium/heavy trucks,Gasoline_2011,582.7
-363,Medium/heavy trucks,Gasoline_2012,580.4
-435,Medium/heavy trucks,Gasoline_2013,595.3
-507,Medium/heavy trucks,Gasoline_2014,605.2
-579,Medium/heavy trucks,Gasoline_2015,601.3
-651,Medium/heavy trucks,Gasoline_2016,617.3
-723,Medium/heavy trucks,Gasoline_2017,632.0
-795,Medium/heavy trucks,Gasoline_2018,638.1
-867,Medium/heavy trucks,Gasoline_2019,627.6
-30,Medium/heavy trucks,Jet_fuel_2007,5274.2
-102,Medium/heavy trucks,Jet_fuel_2008,5021.6
-174,Medium/heavy trucks,Jet_fuel_2009,6084.5
-246,Medium/heavy trucks,Jet_fuel_2010,0
-318,Medium/heavy trucks,Jet_fuel_2011,0
-390,Medium/heavy trucks,Jet_fuel_2012,0
-462,Medium/heavy trucks,Jet_fuel_2013,0
-534,Medium/heavy trucks,Jet_fuel_2014,0
-606,Medium/heavy trucks,Jet_fuel_2015,0
-678,Medium/heavy trucks,Jet_fuel_2016,0
-750,Medium/heavy trucks,Jet_fuel_2017,0
-822,Medium/heavy trucks,Jet_fuel_2018,0
-894,Medium/heavy trucks,Jet_fuel_2019,0
-21,Medium/heavy trucks,Liquified_petroleum_gas_2007,17.5
-93,Medium/heavy trucks,Liquified_petroleum_gas_2008,16.8
-165,Medium/heavy trucks,Liquified_petroleum_gas_2009,20.3
-237,Medium/heavy trucks,Liquified_petroleum_gas_2010,20.5
-309,Medium/heavy trucks,Liquified_petroleum_gas_2011,19.3
-381,Medium/heavy trucks,Liquified_petroleum_gas_2012,19.3
-453,Medium/heavy trucks,Liquified_petroleum_gas_2013,19.8
-525,Medium/heavy trucks,Liquified_petroleum_gas_2014,20.1
-597,Medium/heavy trucks,Liquified_petroleum_gas_2015,20.0
-669,Medium/heavy trucks,Liquified_petroleum_gas_2016,20.5
-741,Medium/heavy trucks,Liquified_petroleum_gas_2017,21.0
-813,Medium/heavy trucks,Liquified_petroleum_gas_2018,21.2
-885,Medium/heavy trucks,Liquified_petroleum_gas_2019,20.8
-48,Medium/heavy trucks,Natural_gas_2007,0
-120,Medium/heavy trucks,Natural_gas_2008,0
-192,Medium/heavy trucks,Natural_gas_2009,0
-264,Medium/heavy trucks,Natural_gas_2010,0
-336,Medium/heavy trucks,Natural_gas_2011,0
-408,Medium/heavy trucks,Natural_gas_2012,0
-480,Medium/heavy trucks,Natural_gas_2013,0
-552,Medium/heavy trucks,Natural_gas_2014,0
-624,Medium/heavy trucks,Natural_gas_2015,0
-696,Medium/heavy trucks,Natural_gas_2016,0
-768,Medium/heavy trucks,Natural_gas_2017,0
-840,Medium/heavy trucks,Natural_gas_2018,0
-912,Medium/heavy trucks,Natural_gas_2019,0
-39,Medium/heavy trucks,Residual_fuel_oil_2007,0
-111,Medium/heavy trucks,Residual_fuel_oil_2008,0
-183,Medium/heavy trucks,Residual_fuel_oil_2009,0
-255,Medium/heavy trucks,Residual_fuel_oil_2010,0
-327,Medium/heavy trucks,Residual_fuel_oil_2011,0
-399,Medium/heavy trucks,Residual_fuel_oil_2012,0
-471,Medium/heavy trucks,Residual_fuel_oil_2013,0
-543,Medium/heavy trucks,Residual_fuel_oil_2014,0
-615,Medium/heavy trucks,Residual_fuel_oil_2015,0
-687,Medium/heavy trucks,Residual_fuel_oil_2016,0
-759,Medium/heavy trucks,Residual_fuel_oil_2017,0
-831,Medium/heavy trucks,Residual_fuel_oil_2018,0
-903,Medium/heavy trucks,Residual_fuel_oil_2019,0
-66,Medium/heavy trucks,Total_2007,0
-138,Medium/heavy trucks,Total_2008,0
-210,Medium/heavy trucks,Total_2009,0
-282,Medium/heavy trucks,Total_2010,6150.9
-354,Medium/heavy trucks,Total_2011,5797.8
-426,Medium/heavy trucks,Total_2012,5775.5
-498,Medium/heavy trucks,Total_2013,5923.8
-570,Medium/heavy trucks,Total_2014,6021.6
-642,Medium/heavy trucks,Total_2015,5983.6
-714,Medium/heavy trucks,Total_2016,6142.1
-786,Medium/heavy trucks,Total_2017,6288.6
-858,Medium/heavy trucks,Total_2018,6349.0
-930,Medium/heavy trucks,Total_2019,6244.8
-13,NONHIGHWAY,Diesel_fuel_2007,0
-85,NONHIGHWAY,Diesel_fuel_2008,794.3
-157,NONHIGHWAY,Diesel_fuel_2009,721.4
-229,NONHIGHWAY,Diesel_fuel_2010,799.9
-301,NONHIGHWAY,Diesel_fuel_2011,949.5
-373,NONHIGHWAY,Diesel_fuel_2012,831.7
-445,NONHIGHWAY,Diesel_fuel_2013,818.2
-517,NONHIGHWAY,Diesel_fuel_2014,840.4
-589,NONHIGHWAY,Diesel_fuel_2015,927.3
-661,NONHIGHWAY,Diesel_fuel_2016,830.8
-733,NONHIGHWAY,Diesel_fuel_2017,818.5
-805,NONHIGHWAY,Diesel_fuel_2018,867.5
-877,NONHIGHWAY,Diesel_fuel_2019,812.5
-58,NONHIGHWAY,Electricity_2007,0
-130,NONHIGHWAY,Electricity_2008,314.0
-202,NONHIGHWAY,Electricity_2009,312.2
-274,NONHIGHWAY,Electricity_2010,314.6
-346,NONHIGHWAY,Electricity_2011,316.6
-418,NONHIGHWAY,Electricity_2012,318.2
-490,NONHIGHWAY,Electricity_2013,325.9
-562,NONHIGHWAY,Electricity_2014,325.0
-634,NONHIGHWAY,Electricity_2015,104.2
-706,NONHIGHWAY,Electricity_2016,104.4
-778,NONHIGHWAY,Electricity_2017,104.7
-850,NONHIGHWAY,Electricity_2018,107.4
-922,NONHIGHWAY,Electricity_2019,109.2
-4,NONHIGHWAY,Gasoline_2007,
-76,NONHIGHWAY,Gasoline_2008,237.7
-148,NONHIGHWAY,Gasoline_2009,237.1
-220,NONHIGHWAY,Gasoline_2010,222.6
-292,NONHIGHWAY,Gasoline_2011,221.8
-364,NONHIGHWAY,Gasoline_2012,222.0
-436,NONHIGHWAY,Gasoline_2013,214.6
-508,NONHIGHWAY,Gasoline_2014,217.8
-580,NONHIGHWAY,Gasoline_2015,214.6
-652,NONHIGHWAY,Gasoline_2016,214.8
-724,NONHIGHWAY,Gasoline_2017,214.8
-796,NONHIGHWAY,Gasoline_2018,198.1
-868,NONHIGHWAY,Gasoline_2019,194.4
-31,NONHIGHWAY,Jet_fuel_2007,0
-103,NONHIGHWAY,Jet_fuel_2008,2355.6
-175,NONHIGHWAY,Jet_fuel_2009,2099.3
-247,NONHIGHWAY,Jet_fuel_2010,2122.4
-319,NONHIGHWAY,Jet_fuel_2011,2136.2
-391,NONHIGHWAY,Jet_fuel_2012,2064.5
-463,NONHIGHWAY,Jet_fuel_2013,2016.1
-535,NONHIGHWAY,Jet_fuel_2014,2038.6
-607,NONHIGHWAY,Jet_fuel_2015,2095.6
-679,NONHIGHWAY,Jet_fuel_2016,2155.5
-751,NONHIGHWAY,Jet_fuel_2017,2208.2
-823,NONHIGHWAY,Jet_fuel_2018,2331.5
-895,NONHIGHWAY,Jet_fuel_2019,2347.4
-22,NONHIGHWAY,Liquified_petroleum_gas_2007,0
-94,NONHIGHWAY,Liquified_petroleum_gas_2008,0.0
-166,NONHIGHWAY,Liquified_petroleum_gas_2009,0.0
-238,NONHIGHWAY,Liquified_petroleum_gas_2010,0
-310,NONHIGHWAY,Liquified_petroleum_gas_2011,0
-382,NONHIGHWAY,Liquified_petroleum_gas_2012,0
-454,NONHIGHWAY,Liquified_petroleum_gas_2013,0
-526,NONHIGHWAY,Liquified_petroleum_gas_2014,0
-598,NONHIGHWAY,Liquified_petroleum_gas_2015,0
-670,NONHIGHWAY,Liquified_petroleum_gas_2016,0
-742,NONHIGHWAY,Liquified_petroleum_gas_2017,0
-814,NONHIGHWAY,Liquified_petroleum_gas_2018,0
-886,NONHIGHWAY,Liquified_petroleum_gas_2019,0
-49,NONHIGHWAY,Natural_gas_2007,0
-121,NONHIGHWAY,Natural_gas_2008,668.0
-193,NONHIGHWAY,Natural_gas_2009,616.8
-265,NONHIGHWAY,Natural_gas_2010,689.6
-337,NONHIGHWAY,Natural_gas_2011,704.9
-409,NONHIGHWAY,Natural_gas_2012,750.7
-481,NONHIGHWAY,Natural_gas_2013,888.3
-553,NONHIGHWAY,Natural_gas_2014,861.7
-625,NONHIGHWAY,Natural_gas_2015,686.9
-697,NONHIGHWAY,Natural_gas_2016,719.1
-769,NONHIGHWAY,Natural_gas_2017,743.9
-841,NONHIGHWAY,Natural_gas_2018,889.6
-913,NONHIGHWAY,Natural_gas_2019,973.5
-40,NONHIGHWAY,Residual_fuel_oil_2007,0
-112,NONHIGHWAY,Residual_fuel_oil_2008,795.8
-184,NONHIGHWAY,Residual_fuel_oil_2009,839.4
-256,NONHIGHWAY,Residual_fuel_oil_2010,887.0
-328,NONHIGHWAY,Residual_fuel_oil_2011,779.4
-400,NONHIGHWAY,Residual_fuel_oil_2012,686.8
-472,NONHIGHWAY,Residual_fuel_oil_2013,580.4
-544,NONHIGHWAY,Residual_fuel_oil_2014,447.3
-616,NONHIGHWAY,Residual_fuel_oil_2015,464.6
-688,NONHIGHWAY,Residual_fuel_oil_2016,627.7
-760,NONHIGHWAY,Residual_fuel_oil_2017,669.5
-832,NONHIGHWAY,Residual_fuel_oil_2018,616.4
-904,NONHIGHWAY,Residual_fuel_oil_2019,530.5
-67,NONHIGHWAY,Total_2007,0
-139,NONHIGHWAY,Total_2008,5165.4
-211,NONHIGHWAY,Total_2009,4826.1
-283,NONHIGHWAY,Total_2010,5036.1
-355,NONHIGHWAY,Total_2011,5108.4
-427,NONHIGHWAY,Total_2012,4874.0
-499,NONHIGHWAY,Total_2013,4843.5
-571,NONHIGHWAY,Total_2014,4730.6
-643,NONHIGHWAY,Total_2015,4493.2
-715,NONHIGHWAY,Total_2016,4652.2
-787,NONHIGHWAY,Total_2017,4723.2
-859,NONHIGHWAY,Total_2018,5010.6
-931,NONHIGHWAY,Total_2019,4967.6
-16,Pipeline,Diesel_fuel_2007,0.0
-88,Pipeline,Diesel_fuel_2008,0.0
-160,Pipeline,Diesel_fuel_2009,0.0
-232,Pipeline,Diesel_fuel_2010,0
-304,Pipeline,Diesel_fuel_2011,0
-376,Pipeline,Diesel_fuel_2012,0
-448,Pipeline,Diesel_fuel_2013,0
-520,Pipeline,Diesel_fuel_2014,0
-592,Pipeline,Diesel_fuel_2015,0
-664,Pipeline,Diesel_fuel_2016,0
-736,Pipeline,Diesel_fuel_2017,0
-808,Pipeline,Diesel_fuel_2018,0
-880,Pipeline,Diesel_fuel_2019,0
-61,Pipeline,Electricity_2007,241.3
-133,Pipeline,Electricity_2008,242.5
-205,Pipeline,Electricity_2009,240.1
-277,Pipeline,Electricity_2010,243.4
-349,Pipeline,Electricity_2011,244.1
-421,Pipeline,Electricity_2012,246.2
-493,Pipeline,Electricity_2013,252.5
-565,Pipeline,Electricity_2014,251.3
-637,Pipeline,Electricity_2015,80.3
-709,Pipeline,Electricity_2016,80.7
-781,Pipeline,Electricity_2017,81.1
-853,Pipeline,Electricity_2018,83.3
-925,Pipeline,Electricity_2019,84.6
-7,Pipeline,Gasoline_2007,0.0
-79,Pipeline,Gasoline_2008,0.0
-151,Pipeline,Gasoline_2009,0.0
-223,Pipeline,Gasoline_2010,0
-295,Pipeline,Gasoline_2011,0
-367,Pipeline,Gasoline_2012,0
-439,Pipeline,Gasoline_2013,0
-511,Pipeline,Gasoline_2014,0
-583,Pipeline,Gasoline_2015,0
-655,Pipeline,Gasoline_2016,0
-727,Pipeline,Gasoline_2017,0
-799,Pipeline,Gasoline_2018,0
-871,Pipeline,Gasoline_2019,0
-34,Pipeline,Jet_fuel_2007,0.0
-106,Pipeline,Jet_fuel_2008,0.0
-178,Pipeline,Jet_fuel_2009,0.0
-250,Pipeline,Jet_fuel_2010,0
-322,Pipeline,Jet_fuel_2011,0
-394,Pipeline,Jet_fuel_2012,0
-466,Pipeline,Jet_fuel_2013,0
-538,Pipeline,Jet_fuel_2014,0
-610,Pipeline,Jet_fuel_2015,0
-682,Pipeline,Jet_fuel_2016,0
-754,Pipeline,Jet_fuel_2017,0
-826,Pipeline,Jet_fuel_2018,0
-898,Pipeline,Jet_fuel_2019,0
-25,Pipeline,Liquified_petroleum_gas_2007,0.0
-97,Pipeline,Liquified_petroleum_gas_2008,0.0
-169,Pipeline,Liquified_petroleum_gas_2009,0.0
-241,Pipeline,Liquified_petroleum_gas_2010,0
-313,Pipeline,Liquified_petroleum_gas_2011,0
-385,Pipeline,Liquified_petroleum_gas_2012,0
-457,Pipeline,Liquified_petroleum_gas_2013,0
-529,Pipeline,Liquified_petroleum_gas_2014,0
-601,Pipeline,Liquified_petroleum_gas_2015,0
-673,Pipeline,Liquified_petroleum_gas_2016,0
-745,Pipeline,Liquified_petroleum_gas_2017,0
-817,Pipeline,Liquified_petroleum_gas_2018,0
-889,Pipeline,Liquified_petroleum_gas_2019,0
-52,Pipeline,Natural_gas_2007,642.2
-124,Pipeline,Natural_gas_2008,668.0
-196,Pipeline,Natural_gas_2009,616.8
-268,Pipeline,Natural_gas_2010,689.6
-340,Pipeline,Natural_gas_2011,704.9
-412,Pipeline,Natural_gas_2012,750.7
-484,Pipeline,Natural_gas_2013,888.3
-556,Pipeline,Natural_gas_2014,861.7
-628,Pipeline,Natural_gas_2015,686.9
-700,Pipeline,Natural_gas_2016,719.1
-772,Pipeline,Natural_gas_2017,743.9
-844,Pipeline,Natural_gas_2018,889.6
-916,Pipeline,Natural_gas_2019,973.5
-43,Pipeline,Residual_fuel_oil_2007,0.0
-115,Pipeline,Residual_fuel_oil_2008,0.0
-187,Pipeline,Residual_fuel_oil_2009,0.0
-259,Pipeline,Residual_fuel_oil_2010,0
-331,Pipeline,Residual_fuel_oil_2011,0
-403,Pipeline,Residual_fuel_oil_2012,0
-475,Pipeline,Residual_fuel_oil_2013,0
-547,Pipeline,Residual_fuel_oil_2014,0
-619,Pipeline,Residual_fuel_oil_2015,0
-691,Pipeline,Residual_fuel_oil_2016,0
-763,Pipeline,Residual_fuel_oil_2017,0
-835,Pipeline,Residual_fuel_oil_2018,0
-907,Pipeline,Residual_fuel_oil_2019,0
-70,Pipeline,Total_2007,883.5
-142,Pipeline,Total_2008,910.5
-214,Pipeline,Total_2009,856.9
-286,Pipeline,Total_2010,933.0
-358,Pipeline,Total_2011,949.0
-430,Pipeline,Total_2012,997.0
-502,Pipeline,Total_2013,1140.8
-574,Pipeline,Total_2014,1112.9
-646,Pipeline,Total_2015,767.1
-718,Pipeline,Total_2016,799.8
-790,Pipeline,Total_2017,825.0
-862,Pipeline,Total_2018,972.9
-934,Pipeline,Total_2019,1058.1
-17,Rail,Diesel_fuel_2007,586.7
-89,Rail,Diesel_fuel_2008,562.9
-161,Rail,Diesel_fuel_2009,468.4
-233,Rail,Diesel_fuel_2010,509.8
-305,Rail,Diesel_fuel_2011,536.6
-377,Rail,Diesel_fuel_2012,525.9
-449,Rail,Diesel_fuel_2013,537.4
-521,Rail,Diesel_fuel_2014,562.7
-593,Rail,Diesel_fuel_2015,538.8
-665,Rail,Diesel_fuel_2016,496.5
-737,Rail,Diesel_fuel_2017,513.3
-809,Rail,Diesel_fuel_2018,535.4
-881,Rail,Diesel_fuel_2019,502.9
-62,Rail,Electricity_2007,70.8
-134,Rail,Electricity_2008,71.5
-206,Rail,Electricity_2009,72.1
-278,Rail,Electricity_2010,71.2
-350,Rail,Electricity_2011,72.5
-422,Rail,Electricity_2012,72.0
-494,Rail,Electricity_2013,73.4
-566,Rail,Electricity_2014,73.7
-638,Rail,Electricity_2015,24.0
-710,Rail,Electricity_2016,23.7
-782,Rail,Electricity_2017,23.6
-854,Rail,Electricity_2018,24.1
-926,Rail,Electricity_2019,24.6
-8,Rail,Gasoline_2007,0.0
-80,Rail,Gasoline_2008,0.0
-152,Rail,Gasoline_2009,0.0
-224,Rail,Gasoline_2010,0
-296,Rail,Gasoline_2011,0
-368,Rail,Gasoline_2012,0
-440,Rail,Gasoline_2013,0
-512,Rail,Gasoline_2014,0
-584,Rail,Gasoline_2015,0
-656,Rail,Gasoline_2016,0
-728,Rail,Gasoline_2017,0
-800,Rail,Gasoline_2018,0
-872,Rail,Gasoline_2019,0
-35,Rail,Jet_fuel_2007,0.0
-107,Rail,Jet_fuel_2008,0.0
-179,Rail,Jet_fuel_2009,0.0
-251,Rail,Jet_fuel_2010,0
-323,Rail,Jet_fuel_2011,0
-395,Rail,Jet_fuel_2012,0
-467,Rail,Jet_fuel_2013,0
-539,Rail,Jet_fuel_2014,0
-611,Rail,Jet_fuel_2015,0
-683,Rail,Jet_fuel_2016,0
-755,Rail,Jet_fuel_2017,0
-827,Rail,Jet_fuel_2018,0
-899,Rail,Jet_fuel_2019,0
-26,Rail,Liquified_petroleum_gas_2007,0.0
-98,Rail,Liquified_petroleum_gas_2008,0.0
-170,Rail,Liquified_petroleum_gas_2009,0.0
-242,Rail,Liquified_petroleum_gas_2010,0
-314,Rail,Liquified_petroleum_gas_2011,0
-386,Rail,Liquified_petroleum_gas_2012,0
-458,Rail,Liquified_petroleum_gas_2013,0
-530,Rail,Liquified_petroleum_gas_2014,0
-602,Rail,Liquified_petroleum_gas_2015,0
-674,Rail,Liquified_petroleum_gas_2016,0
-746,Rail,Liquified_petroleum_gas_2017,0
-818,Rail,Liquified_petroleum_gas_2018,0
-890,Rail,Liquified_petroleum_gas_2019,0
-53,Rail,Natural_gas_2007,0.0
-125,Rail,Natural_gas_2008,0.0
-197,Rail,Natural_gas_2009,0.0
-269,Rail,Natural_gas_2010,0
-341,Rail,Natural_gas_2011,0
-413,Rail,Natural_gas_2012,0
-485,Rail,Natural_gas_2013,0
-557,Rail,Natural_gas_2014,0
-629,Rail,Natural_gas_2015,0
-701,Rail,Natural_gas_2016,0
-773,Rail,Natural_gas_2017,0
-845,Rail,Natural_gas_2018,0
-917,Rail,Natural_gas_2019,0
-44,Rail,Residual_fuel_oil_2007,0.0
-116,Rail,Residual_fuel_oil_2008,0.0
-188,Rail,Residual_fuel_oil_2009,0.0
-260,Rail,Residual_fuel_oil_2010,0
-332,Rail,Residual_fuel_oil_2011,0
-404,Rail,Residual_fuel_oil_2012,0
-476,Rail,Residual_fuel_oil_2013,0
-548,Rail,Residual_fuel_oil_2014,0
-620,Rail,Residual_fuel_oil_2015,0
-692,Rail,Residual_fuel_oil_2016,0
-764,Rail,Residual_fuel_oil_2017,0
-836,Rail,Residual_fuel_oil_2018,0
-908,Rail,Residual_fuel_oil_2019,0
-71,Rail,Total_2007,657.5
-143,Rail,Total_2008,634.4
-215,Rail,Total_2009,540.4
-287,Rail,Total_2010,581.0
-359,Rail,Total_2011,609.1
-431,Rail,Total_2012,597.8
-503,Rail,Total_2013,610.8
-575,Rail,Total_2014,636.4
-647,Rail,Total_2015,562.8
-719,Rail,Total_2016,520.2
-791,Rail,Total_2017,536.9
-863,Rail,Total_2018,559.5
-935,Rail,Total_2019,527.5
-15,Water,Diesel_fuel_2007,344.2
-87,Water,Diesel_fuel_2008,231.5
-159,Water,Diesel_fuel_2009,253.0
-231,Water,Diesel_fuel_2010,290.1
-303,Water,Diesel_fuel_2011,412.8
-375,Water,Diesel_fuel_2012,305.9
-447,Water,Diesel_fuel_2013,280.8
-519,Water,Diesel_fuel_2014,277.6
-591,Water,Diesel_fuel_2015,388.4
-663,Water,Diesel_fuel_2016,334.0
-735,Water,Diesel_fuel_2017,290.5
-807,Water,Diesel_fuel_2018,332.2
-879,Water,Diesel_fuel_2019,309.5
-60,Water,Electricity_2007,0
-132,Water,Electricity_2008,0
-204,Water,Electricity_2009,0
-276,Water,Electricity_2010,0
-348,Water,Electricity_2011,0
-420,Water,Electricity_2012,0
-492,Water,Electricity_2013,0
-564,Water,Electricity_2014,0
-636,Water,Electricity_2015,0
-708,Water,Electricity_2016,0
-780,Water,Electricity_2017,0
-852,Water,Electricity_2018,0
-924,Water,Electricity_2019,0
-6,Water,Gasoline_2007,202.7
-78,Water,Gasoline_2008,200.0
-150,Water,Gasoline_2009,198.8
-222,Water,Gasoline_2010,197.3
-294,Water,Gasoline_2011,195.9
-366,Water,Gasoline_2012,194.7
-438,Water,Gasoline_2013,193.8
-510,Water,Gasoline_2014,193.1
-582,Water,Gasoline_2015,192.6
-654,Water,Gasoline_2016,192.2
-726,Water,Gasoline_2017,170.4
-798,Water,Gasoline_2018,171.4
-870,Water,Gasoline_2019,171.9
-33,Water,Jet_fuel_2007,1559.1
-105,Water,Jet_fuel_2008,1227.2
-177,Water,Jet_fuel_2009,1291.3
-249,Water,Jet_fuel_2010,1374.4
-321,Water,Jet_fuel_2011,1388.1
-393,Water,Jet_fuel_2012,1187.4
-465,Water,Jet_fuel_2013,0
-537,Water,Jet_fuel_2014,0
-609,Water,Jet_fuel_2015,0
-681,Water,Jet_fuel_2016,0
-753,Water,Jet_fuel_2017,0
-825,Water,Jet_fuel_2018,0
-897,Water,Jet_fuel_2019,0
-24,Water,Liquified_petroleum_gas_2007,1012.1
-96,Water,Liquified_petroleum_gas_2008,795.8
-168,Water,Liquified_petroleum_gas_2009,839.4
-240,Water,Liquified_petroleum_gas_2010,887.0
-312,Water,Liquified_petroleum_gas_2011,779.4
-384,Water,Liquified_petroleum_gas_2012,686.8
-456,Water,Liquified_petroleum_gas_2013,0
-528,Water,Liquified_petroleum_gas_2014,0
-600,Water,Liquified_petroleum_gas_2015,0
-672,Water,Liquified_petroleum_gas_2016,0
-744,Water,Liquified_petroleum_gas_2017,0
-816,Water,Liquified_petroleum_gas_2018,0
-888,Water,Liquified_petroleum_gas_2019,0
-51,Water,Natural_gas_2007,0
-123,Water,Natural_gas_2008,0
-195,Water,Natural_gas_2009,0
-267,Water,Natural_gas_2010,0
-339,Water,Natural_gas_2011,0
-411,Water,Natural_gas_2012,0
-483,Water,Natural_gas_2013,0
-555,Water,Natural_gas_2014,0
-627,Water,Natural_gas_2015,0
-699,Water,Natural_gas_2016,0
-771,Water,Natural_gas_2017,0
-843,Water,Natural_gas_2018,0
-915,Water,Natural_gas_2019,0
-42,Water,Residual_fuel_oil_2007,0
-114,Water,Residual_fuel_oil_2008,0
-186,Water,Residual_fuel_oil_2009,0
-258,Water,Residual_fuel_oil_2010,0
-330,Water,Residual_fuel_oil_2011,0
-402,Water,Residual_fuel_oil_2012,0
-474,Water,Residual_fuel_oil_2013,580.4
-546,Water,Residual_fuel_oil_2014,447.3
-618,Water,Residual_fuel_oil_2015,464.6
-690,Water,Residual_fuel_oil_2016,627.7
-762,Water,Residual_fuel_oil_2017,669.5
-834,Water,Residual_fuel_oil_2018,616.4
-906,Water,Residual_fuel_oil_2019,530.5
-69,Water,Total_2007,0
-141,Water,Total_2008,0
-213,Water,Total_2009,0
-285,Water,Total_2010,0
-357,Water,Total_2011,0
-429,Water,Total_2012,0
-501,Water,Total_2013,1054.9
-573,Water,Total_2014,918.0
-645,Water,Total_2015,1045.6
-717,Water,Total_2016,1153.9
-789,Water,Total_2017,1130.4
-861,Water,Total_2018,1120.0
-933,Water,Total_2019,1011.9
+modo_transporte,tipo_combustible,valor
+HIGHWAY ,Gasoline_2007,17022.5
+Light vehicles,Gasoline_2007,16485.5
+Buses,Gasoline_2007,6.9
+Medium/heavy trucks,Gasoline_2007,530.1
+NONHIGHWAY,Gasoline_2007,0
+Air,Gasoline_2007,38.9
+Water,Gasoline_2007,202.7
+Pipeline,Gasoline_2007,0
+Rail,Gasoline_2007,0
+HIGHWAY ,Diesel_fuel_2007,5288.9
+Light vehicles,Diesel_fuel_2007,394.5
+Buses,Diesel_fuel_2007,167.7
+Medium/heavy trucks,Diesel_fuel_2007,4726.6
+NONHIGHWAY,Diesel_fuel_2007,0
+Air,Diesel_fuel_2007,0
+Water,Diesel_fuel_2007,344.2
+Pipeline,Diesel_fuel_2007,0
+Rail,Diesel_fuel_2007,586.7
+HIGHWAY ,Liquified_petroleum_gas_2007,62.4
+Light vehicles,Liquified_petroleum_gas_2007,44.9
+Buses,Liquified_petroleum_gas_2007,18.4
+Medium/heavy trucks,Liquified_petroleum_gas_2007,17.5
+NONHIGHWAY,Liquified_petroleum_gas_2007,0
+Air,Liquified_petroleum_gas_2007,0
+Water,Liquified_petroleum_gas_2007,1012.1
+Pipeline,Liquified_petroleum_gas_2007,0
+Rail,Liquified_petroleum_gas_2007,0
+HIGHWAY ,Jet_fuel_2007,18.4
+Light vehicles,Jet_fuel_2007,16924.9
+Buses,Jet_fuel_2007,0.6
+Medium/heavy trucks,Jet_fuel_2007,5274.2
+NONHIGHWAY,Jet_fuel_2007,0
+Air,Jet_fuel_2007,2470.5
+Water,Jet_fuel_2007,1559.1
+Pipeline,Jet_fuel_2007,0
+Rail,Jet_fuel_2007,0
+HIGHWAY ,Residual_fuel_oil_2007,0.6
+Light vehicles,Residual_fuel_oil_2007,0
+Buses,Residual_fuel_oil_2007,193.7
+Medium/heavy trucks,Residual_fuel_oil_2007,0
+NONHIGHWAY,Residual_fuel_oil_2007,0
+Air,Residual_fuel_oil_2007,0
+Water,Residual_fuel_oil_2007,0
+Pipeline,Residual_fuel_oil_2007,0
+Rail,Residual_fuel_oil_2007,0
+HIGHWAY ,Natural_gas_2007,22392.7
+Light vehicles,Natural_gas_2007,0
+Buses,Natural_gas_2007,0
+Medium/heavy trucks,Natural_gas_2007,0
+NONHIGHWAY,Natural_gas_2007,0
+Air,Natural_gas_2007,0
+Water,Natural_gas_2007,0
+Pipeline,Natural_gas_2007,642.2
+Rail,Natural_gas_2007,0
+HIGHWAY ,Electricity_2007,0
+Light vehicles,Electricity_2007,0
+Buses,Electricity_2007,0
+Medium/heavy trucks,Electricity_2007,0
+NONHIGHWAY,Electricity_2007,0
+Air,Electricity_2007,0
+Water,Electricity_2007,0
+Pipeline,Electricity_2007,241.3
+Rail,Electricity_2007,70.8
+HIGHWAY ,Total_2007,0
+Light vehicles,Total_2007,0
+Buses,Total_2007,0
+Medium/heavy trucks,Total_2007,0
+NONHIGHWAY,Total_2007,0
+Air,Total_2007,2509.5
+Water,Total_2007,0
+Pipeline,Total_2007,883.5
+Rail,Total_2007,657.5
+HIGHWAY ,Gasoline_2008,16513.8
+Light vehicles,Gasoline_2008,16001.9
+Buses,Gasoline_2008,7.2
+Medium/heavy trucks,Gasoline_2008,504.7
+NONHIGHWAY,Gasoline_2008,237.7
+Air,Gasoline_2008,37.7
+Water,Gasoline_2008,200
+Pipeline,Gasoline_2008,0
+Rail,Gasoline_2008,0
+HIGHWAY ,Diesel_fuel_2008,5060.8
+Light vehicles,Diesel_fuel_2008,389.1
+Buses,Diesel_fuel_2008,171.5
+Medium/heavy trucks,Diesel_fuel_2008,4500.2
+NONHIGHWAY,Diesel_fuel_2008,794.3
+Air,Diesel_fuel_2008,0
+Water,Diesel_fuel_2008,231.5
+Pipeline,Diesel_fuel_2008,0
+Rail,Diesel_fuel_2008,562.9
+HIGHWAY ,Liquified_petroleum_gas_2008,61.5
+Light vehicles,Liquified_petroleum_gas_2008,44.7
+Buses,Liquified_petroleum_gas_2008,0
+Medium/heavy trucks,Liquified_petroleum_gas_2008,16.8
+NONHIGHWAY,Liquified_petroleum_gas_2008,0
+Air,Liquified_petroleum_gas_2008,0
+Water,Liquified_petroleum_gas_2008,795.8
+Pipeline,Liquified_petroleum_gas_2008,0
+Rail,Liquified_petroleum_gas_2008,0
+HIGHWAY ,Jet_fuel_2008,20.4
+Light vehicles,Jet_fuel_2008,0
+Buses,Jet_fuel_2008,20.4
+Medium/heavy trucks,Jet_fuel_2008,5021.6
+NONHIGHWAY,Jet_fuel_2008,2355.6
+Air,Jet_fuel_2008,2355.6
+Water,Jet_fuel_2008,1227.2
+Pipeline,Jet_fuel_2008,0
+Rail,Jet_fuel_2008,0
+HIGHWAY ,Residual_fuel_oil_2008,0.6
+Light vehicles,Residual_fuel_oil_2008,0
+Buses,Residual_fuel_oil_2008,0.6
+Medium/heavy trucks,Residual_fuel_oil_2008,0
+NONHIGHWAY,Residual_fuel_oil_2008,795.8
+Air,Residual_fuel_oil_2008,0
+Water,Residual_fuel_oil_2008,0
+Pipeline,Residual_fuel_oil_2008,0
+Rail,Residual_fuel_oil_2008,0
+HIGHWAY ,Natural_gas_2008,21657.1
+Light vehicles,Natural_gas_2008,16435.7
+Buses,Natural_gas_2008,199.8
+Medium/heavy trucks,Natural_gas_2008,0
+NONHIGHWAY,Natural_gas_2008,668
+Air,Natural_gas_2008,0
+Water,Natural_gas_2008,0
+Pipeline,Natural_gas_2008,668
+Rail,Natural_gas_2008,0
+HIGHWAY ,Electricity_2008,0
+Light vehicles,Electricity_2008,0
+Buses,Electricity_2008,0
+Medium/heavy trucks,Electricity_2008,0
+NONHIGHWAY,Electricity_2008,314
+Air,Electricity_2008,0
+Water,Electricity_2008,0
+Pipeline,Electricity_2008,242.5
+Rail,Electricity_2008,71.5
+HIGHWAY ,Total_2008,0
+Light vehicles,Total_2008,0
+Buses,Total_2008,0
+Medium/heavy trucks,Total_2008,0
+NONHIGHWAY,Total_2008,5165.4
+Air,Total_2008,2393.3
+Water,Total_2008,0
+Pipeline,Total_2008,910.5
+Rail,Total_2008,634.4
+HIGHWAY ,Gasoline_2009,16661.4
+Light vehicles,Gasoline_2009,16042.1
+Buses,Gasoline_2009,7.8
+Medium/heavy trucks,Gasoline_2009,611.5
+NONHIGHWAY,Gasoline_2009,237.1
+Air,Gasoline_2009,38.2
+Water,Gasoline_2009,198.8
+Pipeline,Gasoline_2009,0
+Rail,Gasoline_2009,0
+HIGHWAY ,Diesel_fuel_2009,6013.6
+Light vehicles,Diesel_fuel_2009,391.4
+Buses,Diesel_fuel_2009,169.5
+Medium/heavy trucks,Diesel_fuel_2009,5452.7
+NONHIGHWAY,Diesel_fuel_2009,721.4
+Air,Diesel_fuel_2009,0
+Water,Diesel_fuel_2009,253
+Pipeline,Diesel_fuel_2009,0
+Rail,Diesel_fuel_2009,468.4
+HIGHWAY ,Liquified_petroleum_gas_2009,65.3
+Light vehicles,Liquified_petroleum_gas_2009,45
+Buses,Liquified_petroleum_gas_2009,0
+Medium/heavy trucks,Liquified_petroleum_gas_2009,20.3
+NONHIGHWAY,Liquified_petroleum_gas_2009,0
+Air,Liquified_petroleum_gas_2009,0
+Water,Liquified_petroleum_gas_2009,839.4
+Pipeline,Liquified_petroleum_gas_2009,0
+Rail,Liquified_petroleum_gas_2009,0
+HIGHWAY ,Jet_fuel_2009,22
+Light vehicles,Jet_fuel_2009,0
+Buses,Jet_fuel_2009,22
+Medium/heavy trucks,Jet_fuel_2009,6084.5
+NONHIGHWAY,Jet_fuel_2009,2099.3
+Air,Jet_fuel_2009,2099.3
+Water,Jet_fuel_2009,1291.3
+Pipeline,Jet_fuel_2009,0
+Rail,Jet_fuel_2009,0
+HIGHWAY ,Residual_fuel_oil_2009,0.7
+Light vehicles,Residual_fuel_oil_2009,0
+Buses,Residual_fuel_oil_2009,0.7
+Medium/heavy trucks,Residual_fuel_oil_2009,0
+NONHIGHWAY,Residual_fuel_oil_2009,839.4
+Air,Residual_fuel_oil_2009,0
+Water,Residual_fuel_oil_2009,0
+Pipeline,Residual_fuel_oil_2009,0
+Rail,Residual_fuel_oil_2009,0
+HIGHWAY ,Natural_gas_2009,22763
+Light vehicles,Natural_gas_2009,16478.5
+Buses,Natural_gas_2009,200
+Medium/heavy trucks,Natural_gas_2009,0
+NONHIGHWAY,Natural_gas_2009,616.8
+Air,Natural_gas_2009,0
+Water,Natural_gas_2009,0
+Pipeline,Natural_gas_2009,616.8
+Rail,Natural_gas_2009,0
+HIGHWAY ,Electricity_2009,0
+Light vehicles,Electricity_2009,0
+Buses,Electricity_2009,0
+Medium/heavy trucks,Electricity_2009,0
+NONHIGHWAY,Electricity_2009,312.2
+Air,Electricity_2009,0
+Water,Electricity_2009,0
+Pipeline,Electricity_2009,240.1
+Rail,Electricity_2009,72.1
+HIGHWAY ,Total_2009,0
+Light vehicles,Total_2009,0
+Buses,Total_2009,0
+Medium/heavy trucks,Total_2009,0
+NONHIGHWAY,Total_2009,4826.1
+Air,Total_2009,2137.5
+Water,Total_2009,0
+Pipeline,Total_2009,856.9
+Rail,Total_2009,540.4
+HIGHWAY ,Gasoline_2010,16437.3
+Light vehicles,Gasoline_2010,15811.5
+Buses,Gasoline_2010,7.7
+Medium/heavy trucks,Gasoline_2010,618.2
+NONHIGHWAY,Gasoline_2010,222.6
+Air,Gasoline_2010,25.3
+Water,Gasoline_2010,197.3
+Pipeline,Gasoline_2010,0
+Rail,Gasoline_2010,0
+HIGHWAY ,Diesel_fuel_2010,6077.8
+Light vehicles,Diesel_fuel_2010,403.4
+Buses,Diesel_fuel_2010,162.3
+Medium/heavy trucks,Diesel_fuel_2010,5512.2
+NONHIGHWAY,Diesel_fuel_2010,799.9
+Air,Diesel_fuel_2010,0
+Water,Diesel_fuel_2010,290.1
+Pipeline,Diesel_fuel_2010,0
+Rail,Diesel_fuel_2010,509.8
+HIGHWAY ,Liquified_petroleum_gas_2010,67.5
+Light vehicles,Liquified_petroleum_gas_2010,47
+Buses,Liquified_petroleum_gas_2010,0
+Medium/heavy trucks,Liquified_petroleum_gas_2010,20.5
+NONHIGHWAY,Liquified_petroleum_gas_2010,0
+Air,Liquified_petroleum_gas_2010,0
+Water,Liquified_petroleum_gas_2010,887
+Pipeline,Liquified_petroleum_gas_2010,0
+Rail,Liquified_petroleum_gas_2010,0
+HIGHWAY ,Jet_fuel_2010,0
+Light vehicles,Jet_fuel_2010,0
+Buses,Jet_fuel_2010,19.6
+Medium/heavy trucks,Jet_fuel_2010,0
+NONHIGHWAY,Jet_fuel_2010,2122.4
+Air,Jet_fuel_2010,2122.4
+Water,Jet_fuel_2010,1374.4
+Pipeline,Jet_fuel_2010,0
+Rail,Jet_fuel_2010,0
+HIGHWAY ,Residual_fuel_oil_2010,0
+Light vehicles,Residual_fuel_oil_2010,0
+Buses,Residual_fuel_oil_2010,0.7
+Medium/heavy trucks,Residual_fuel_oil_2010,0
+NONHIGHWAY,Residual_fuel_oil_2010,887
+Air,Residual_fuel_oil_2010,0
+Water,Residual_fuel_oil_2010,0
+Pipeline,Residual_fuel_oil_2010,0
+Rail,Residual_fuel_oil_2010,0
+HIGHWAY ,Natural_gas_2010,19.6
+Light vehicles,Natural_gas_2010,16261.8
+Buses,Natural_gas_2010,190.2
+Medium/heavy trucks,Natural_gas_2010,0
+NONHIGHWAY,Natural_gas_2010,689.6
+Air,Natural_gas_2010,0
+Water,Natural_gas_2010,0
+Pipeline,Natural_gas_2010,689.6
+Rail,Natural_gas_2010,0
+HIGHWAY ,Electricity_2010,0.7
+Light vehicles,Electricity_2010,0
+Buses,Electricity_2010,0
+Medium/heavy trucks,Electricity_2010,0
+NONHIGHWAY,Electricity_2010,314.6
+Air,Electricity_2010,0
+Water,Electricity_2010,0
+Pipeline,Electricity_2010,243.4
+Rail,Electricity_2010,71.2
+HIGHWAY ,Total_2010,22602.9
+Light vehicles,Total_2010,0
+Buses,Total_2010,0
+Medium/heavy trucks,Total_2010,6150.9
+NONHIGHWAY,Total_2010,5036.1
+Air,Total_2010,2147.6
+Water,Total_2010,0
+Pipeline,Total_2010,933
+Rail,Total_2010,581
+HIGHWAY ,Gasoline_2011,15978.9
+Light vehicles,Gasoline_2011,15388.4
+Buses,Gasoline_2011,7.8
+Medium/heavy trucks,Gasoline_2011,582.7
+NONHIGHWAY,Gasoline_2011,221.8
+Air,Gasoline_2011,25.9
+Water,Gasoline_2011,195.9
+Pipeline,Gasoline_2011,0
+Rail,Gasoline_2011,0
+HIGHWAY ,Diesel_fuel_2011,5751.1
+Light vehicles,Diesel_fuel_2011,389.5
+Buses,Diesel_fuel_2011,165.9
+Medium/heavy trucks,Diesel_fuel_2011,5195.8
+NONHIGHWAY,Diesel_fuel_2011,949.5
+Air,Diesel_fuel_2011,0
+Water,Diesel_fuel_2011,412.8
+Pipeline,Diesel_fuel_2011,0
+Rail,Diesel_fuel_2011,536.6
+HIGHWAY ,Liquified_petroleum_gas_2011,64.6
+Light vehicles,Liquified_petroleum_gas_2011,45.2
+Buses,Liquified_petroleum_gas_2011,0
+Medium/heavy trucks,Liquified_petroleum_gas_2011,19.3
+NONHIGHWAY,Liquified_petroleum_gas_2011,0
+Air,Liquified_petroleum_gas_2011,0
+Water,Liquified_petroleum_gas_2011,779.4
+Pipeline,Liquified_petroleum_gas_2011,0
+Rail,Liquified_petroleum_gas_2011,0
+HIGHWAY ,Jet_fuel_2011,0
+Light vehicles,Jet_fuel_2011,0
+Buses,Jet_fuel_2011,20.2
+Medium/heavy trucks,Jet_fuel_2011,0
+NONHIGHWAY,Jet_fuel_2011,2136.2
+Air,Jet_fuel_2011,2136.2
+Water,Jet_fuel_2011,1388.1
+Pipeline,Jet_fuel_2011,0
+Rail,Jet_fuel_2011,0
+HIGHWAY ,Residual_fuel_oil_2011,0
+Light vehicles,Residual_fuel_oil_2011,0
+Buses,Residual_fuel_oil_2011,0.6
+Medium/heavy trucks,Residual_fuel_oil_2011,0
+NONHIGHWAY,Residual_fuel_oil_2011,779.4
+Air,Residual_fuel_oil_2011,0
+Water,Residual_fuel_oil_2011,0
+Pipeline,Residual_fuel_oil_2011,0
+Rail,Residual_fuel_oil_2011,0
+HIGHWAY ,Natural_gas_2011,20.2
+Light vehicles,Natural_gas_2011,15823.1
+Buses,Natural_gas_2011,194.4
+Medium/heavy trucks,Natural_gas_2011,0
+NONHIGHWAY,Natural_gas_2011,704.9
+Air,Natural_gas_2011,0
+Water,Natural_gas_2011,0
+Pipeline,Natural_gas_2011,704.9
+Rail,Natural_gas_2011,0
+HIGHWAY ,Electricity_2011,0.6
+Light vehicles,Electricity_2011,0
+Buses,Electricity_2011,0
+Medium/heavy trucks,Electricity_2011,0
+NONHIGHWAY,Electricity_2011,316.6
+Air,Electricity_2011,0
+Water,Electricity_2011,0
+Pipeline,Electricity_2011,244.1
+Rail,Electricity_2011,72.5
+HIGHWAY ,Total_2011,21815.3
+Light vehicles,Total_2011,0
+Buses,Total_2011,0
+Medium/heavy trucks,Total_2011,5797.8
+NONHIGHWAY,Total_2011,5108.4
+Air,Total_2011,2162.1
+Water,Total_2011,0
+Pipeline,Total_2011,949
+Rail,Total_2011,609.1
+HIGHWAY ,Gasoline_2012,15493.3
+Light vehicles,Gasoline_2012,14904.2
+Buses,Gasoline_2012,8.7
+Medium/heavy trucks,Gasoline_2012,580.4
+NONHIGHWAY,Gasoline_2012,222
+Air,Gasoline_2012,27.4
+Water,Gasoline_2012,194.7
+Pipeline,Gasoline_2012,0
+Rail,Gasoline_2012,0
+HIGHWAY ,Diesel_fuel_2012,5755.4
+Light vehicles,Diesel_fuel_2012,408.5
+Buses,Diesel_fuel_2012,171.1
+Medium/heavy trucks,Diesel_fuel_2012,5175.8
+NONHIGHWAY,Diesel_fuel_2012,831.7
+Air,Diesel_fuel_2012,0
+Water,Diesel_fuel_2012,305.9
+Pipeline,Diesel_fuel_2012,0
+Rail,Diesel_fuel_2012,525.9
+HIGHWAY ,Liquified_petroleum_gas_2012,67.8
+Light vehicles,Liquified_petroleum_gas_2012,48.5
+Buses,Liquified_petroleum_gas_2012,0
+Medium/heavy trucks,Liquified_petroleum_gas_2012,19.3
+NONHIGHWAY,Liquified_petroleum_gas_2012,0
+Air,Liquified_petroleum_gas_2012,0
+Water,Liquified_petroleum_gas_2012,686.8
+Pipeline,Liquified_petroleum_gas_2012,0
+Rail,Liquified_petroleum_gas_2012,0
+HIGHWAY ,Jet_fuel_2012,0
+Light vehicles,Jet_fuel_2012,0
+Buses,Jet_fuel_2012,19.4
+Medium/heavy trucks,Jet_fuel_2012,0
+NONHIGHWAY,Jet_fuel_2012,2064.5
+Air,Jet_fuel_2012,2064.5
+Water,Jet_fuel_2012,1187.4
+Pipeline,Jet_fuel_2012,0
+Rail,Jet_fuel_2012,0
+HIGHWAY ,Residual_fuel_oil_2012,0
+Light vehicles,Residual_fuel_oil_2012,0
+Buses,Residual_fuel_oil_2012,0.6
+Medium/heavy trucks,Residual_fuel_oil_2012,0
+NONHIGHWAY,Residual_fuel_oil_2012,686.8
+Air,Residual_fuel_oil_2012,0
+Water,Residual_fuel_oil_2012,0
+Pipeline,Residual_fuel_oil_2012,0
+Rail,Residual_fuel_oil_2012,0
+HIGHWAY ,Natural_gas_2012,19.4
+Light vehicles,Natural_gas_2012,15361.2
+Buses,Natural_gas_2012,199.8
+Medium/heavy trucks,Natural_gas_2012,0
+NONHIGHWAY,Natural_gas_2012,750.7
+Air,Natural_gas_2012,0
+Water,Natural_gas_2012,0
+Pipeline,Natural_gas_2012,750.7
+Rail,Natural_gas_2012,0
+HIGHWAY ,Electricity_2012,0.6
+Light vehicles,Electricity_2012,0
+Buses,Electricity_2012,0
+Medium/heavy trucks,Electricity_2012,0
+NONHIGHWAY,Electricity_2012,318.2
+Air,Electricity_2012,0
+Water,Electricity_2012,0
+Pipeline,Electricity_2012,246.2
+Rail,Electricity_2012,72
+HIGHWAY ,Total_2012,21336.6
+Light vehicles,Total_2012,0
+Buses,Total_2012,0
+Medium/heavy trucks,Total_2012,5775.5
+NONHIGHWAY,Total_2012,4874
+Air,Total_2012,2091.9
+Water,Total_2012,0
+Pipeline,Total_2012,997
+Rail,Total_2012,597.8
+HIGHWAY ,Gasoline_2013,15335
+Light vehicles,Gasoline_2013,14730.7
+Buses,Gasoline_2013,8.9
+Medium/heavy trucks,Gasoline_2013,595.3
+NONHIGHWAY,Gasoline_2013,214.6
+Air,Gasoline_2013,20.9
+Water,Gasoline_2013,193.8
+Pipeline,Gasoline_2013,0
+Rail,Gasoline_2013,0
+HIGHWAY ,Diesel_fuel_2013,5885.8
+Light vehicles,Diesel_fuel_2013,403.4
+Buses,Diesel_fuel_2013,173.7
+Medium/heavy trucks,Diesel_fuel_2013,5308.7
+NONHIGHWAY,Diesel_fuel_2013,818.2
+Air,Diesel_fuel_2013,0
+Water,Diesel_fuel_2013,280.8
+Pipeline,Diesel_fuel_2013,0
+Rail,Diesel_fuel_2013,537.4
+HIGHWAY ,Liquified_petroleum_gas_2013,68.2
+Light vehicles,Liquified_petroleum_gas_2013,47.9
+Buses,Liquified_petroleum_gas_2013,0.6
+Medium/heavy trucks,Liquified_petroleum_gas_2013,19.8
+NONHIGHWAY,Liquified_petroleum_gas_2013,0
+Air,Liquified_petroleum_gas_2013,0
+Water,Liquified_petroleum_gas_2013,0
+Pipeline,Liquified_petroleum_gas_2013,0
+Rail,Liquified_petroleum_gas_2013,0
+HIGHWAY ,Jet_fuel_2013,0
+Light vehicles,Jet_fuel_2013,0
+Buses,Jet_fuel_2013,0
+Medium/heavy trucks,Jet_fuel_2013,0
+NONHIGHWAY,Jet_fuel_2013,2016.1
+Air,Jet_fuel_2013,2016.1
+Water,Jet_fuel_2013,0
+Pipeline,Jet_fuel_2013,0
+Rail,Jet_fuel_2013,0
+HIGHWAY ,Residual_fuel_oil_2013,0
+Light vehicles,Residual_fuel_oil_2013,0
+Buses,Residual_fuel_oil_2013,0
+Medium/heavy trucks,Residual_fuel_oil_2013,0
+NONHIGHWAY,Residual_fuel_oil_2013,580.4
+Air,Residual_fuel_oil_2013,0
+Water,Residual_fuel_oil_2013,580.4
+Pipeline,Residual_fuel_oil_2013,0
+Rail,Residual_fuel_oil_2013,0
+HIGHWAY ,Natural_gas_2013,20.3
+Light vehicles,Natural_gas_2013,0
+Buses,Natural_gas_2013,20.3
+Medium/heavy trucks,Natural_gas_2013,0
+NONHIGHWAY,Natural_gas_2013,888.3
+Air,Natural_gas_2013,0
+Water,Natural_gas_2013,0
+Pipeline,Natural_gas_2013,888.3
+Rail,Natural_gas_2013,0
+HIGHWAY ,Electricity_2013,0.7
+Light vehicles,Electricity_2013,0
+Buses,Electricity_2013,0.7
+Medium/heavy trucks,Electricity_2013,0
+NONHIGHWAY,Electricity_2013,325.9
+Air,Electricity_2013,0
+Water,Electricity_2013,0
+Pipeline,Electricity_2013,252.5
+Rail,Electricity_2013,73.4
+HIGHWAY ,Total_2013,21309.9
+Light vehicles,Total_2013,15182
+Buses,Total_2013,204.1
+Medium/heavy trucks,Total_2013,5923.8
+NONHIGHWAY,Total_2013,4843.5
+Air,Total_2013,2037
+Water,Total_2013,1054.9
+Pipeline,Total_2013,1140.8
+Rail,Total_2013,610.8
+HIGHWAY ,Gasoline_2014,15653.4
+Light vehicles,Gasoline_2014,15039
+Buses,Gasoline_2014,9.2
+Medium/heavy trucks,Gasoline_2014,605.2
+NONHIGHWAY,Gasoline_2014,217.8
+Air,Gasoline_2014,24.7
+Water,Gasoline_2014,193.1
+Pipeline,Gasoline_2014,0
+Rail,Gasoline_2014,0
+HIGHWAY ,Diesel_fuel_2014,5992.4
+Light vehicles,Diesel_fuel_2014,422
+Buses,Diesel_fuel_2014,174
+Medium/heavy trucks,Diesel_fuel_2014,5396.3
+NONHIGHWAY,Diesel_fuel_2014,840.4
+Air,Diesel_fuel_2014,0
+Water,Diesel_fuel_2014,277.6
+Pipeline,Diesel_fuel_2014,0
+Rail,Diesel_fuel_2014,562.7
+HIGHWAY ,Liquified_petroleum_gas_2014,71.1
+Light vehicles,Liquified_petroleum_gas_2014,50.4
+Buses,Liquified_petroleum_gas_2014,0.6
+Medium/heavy trucks,Liquified_petroleum_gas_2014,20.1
+NONHIGHWAY,Liquified_petroleum_gas_2014,0
+Air,Liquified_petroleum_gas_2014,0
+Water,Liquified_petroleum_gas_2014,0
+Pipeline,Liquified_petroleum_gas_2014,0
+Rail,Liquified_petroleum_gas_2014,0
+HIGHWAY ,Jet_fuel_2014,0
+Light vehicles,Jet_fuel_2014,0
+Buses,Jet_fuel_2014,0
+Medium/heavy trucks,Jet_fuel_2014,0
+NONHIGHWAY,Jet_fuel_2014,2038.6
+Air,Jet_fuel_2014,2038.6
+Water,Jet_fuel_2014,0
+Pipeline,Jet_fuel_2014,0
+Rail,Jet_fuel_2014,0
+HIGHWAY ,Residual_fuel_oil_2014,0
+Light vehicles,Residual_fuel_oil_2014,0
+Buses,Residual_fuel_oil_2014,0
+Medium/heavy trucks,Residual_fuel_oil_2014,0
+NONHIGHWAY,Residual_fuel_oil_2014,447.3
+Air,Residual_fuel_oil_2014,0
+Water,Residual_fuel_oil_2014,447.3
+Pipeline,Residual_fuel_oil_2014,0
+Rail,Residual_fuel_oil_2014,0
+HIGHWAY ,Natural_gas_2014,21.7
+Light vehicles,Natural_gas_2014,0
+Buses,Natural_gas_2014,21.7
+Medium/heavy trucks,Natural_gas_2014,0
+NONHIGHWAY,Natural_gas_2014,861.7
+Air,Natural_gas_2014,0
+Water,Natural_gas_2014,0
+Pipeline,Natural_gas_2014,861.7
+Rail,Natural_gas_2014,0
+HIGHWAY ,Electricity_2014,3.7
+Light vehicles,Electricity_2014,3
+Buses,Electricity_2014,0.7
+Medium/heavy trucks,Electricity_2014,0
+NONHIGHWAY,Electricity_2014,325
+Air,Electricity_2014,0
+Water,Electricity_2014,0
+Pipeline,Electricity_2014,251.3
+Rail,Electricity_2014,73.7
+HIGHWAY ,Total_2014,21742.3
+Light vehicles,Total_2014,15514.4
+Buses,Total_2014,206.1
+Medium/heavy trucks,Total_2014,6021.6
+NONHIGHWAY,Total_2014,4730.6
+Air,Total_2014,2063.3
+Water,Total_2014,918
+Pipeline,Total_2014,1112.9
+Rail,Total_2014,636.4
+HIGHWAY ,Gasoline_2015,15343.4
+Light vehicles,Gasoline_2015,14733.1
+Buses,Gasoline_2015,8.9
+Medium/heavy trucks,Gasoline_2015,601.3
+NONHIGHWAY,Gasoline_2015,214.6
+Air,Gasoline_2015,22
+Water,Gasoline_2015,192.6
+Pipeline,Gasoline_2015,0
+Rail,Gasoline_2015,0
+HIGHWAY ,Diesel_fuel_2015,5947.2
+Light vehicles,Diesel_fuel_2015,414.1
+Buses,Diesel_fuel_2015,170.9
+Medium/heavy trucks,Diesel_fuel_2015,5362.3
+NONHIGHWAY,Diesel_fuel_2015,927.3
+Air,Diesel_fuel_2015,0
+Water,Diesel_fuel_2015,388.4
+Pipeline,Diesel_fuel_2015,0
+Rail,Diesel_fuel_2015,538.8
+HIGHWAY ,Liquified_petroleum_gas_2015,70.1
+Light vehicles,Liquified_petroleum_gas_2015,49.5
+Buses,Liquified_petroleum_gas_2015,0.7
+Medium/heavy trucks,Liquified_petroleum_gas_2015,20
+NONHIGHWAY,Liquified_petroleum_gas_2015,0
+Air,Liquified_petroleum_gas_2015,0
+Water,Liquified_petroleum_gas_2015,0
+Pipeline,Liquified_petroleum_gas_2015,0
+Rail,Liquified_petroleum_gas_2015,0
+HIGHWAY ,Jet_fuel_2015,0
+Light vehicles,Jet_fuel_2015,0
+Buses,Jet_fuel_2015,0
+Medium/heavy trucks,Jet_fuel_2015,0
+NONHIGHWAY,Jet_fuel_2015,2095.6
+Air,Jet_fuel_2015,2095.6
+Water,Jet_fuel_2015,0
+Pipeline,Jet_fuel_2015,0
+Rail,Jet_fuel_2015,0
+HIGHWAY ,Residual_fuel_oil_2015,0
+Light vehicles,Residual_fuel_oil_2015,0
+Buses,Residual_fuel_oil_2015,0
+Medium/heavy trucks,Residual_fuel_oil_2015,0
+NONHIGHWAY,Residual_fuel_oil_2015,464.6
+Air,Residual_fuel_oil_2015,0
+Water,Residual_fuel_oil_2015,464.6
+Pipeline,Residual_fuel_oil_2015,0
+Rail,Residual_fuel_oil_2015,0
+HIGHWAY ,Natural_gas_2015,21.9
+Light vehicles,Natural_gas_2015,0
+Buses,Natural_gas_2015,21.9
+Medium/heavy trucks,Natural_gas_2015,0
+NONHIGHWAY,Natural_gas_2015,686.9
+Air,Natural_gas_2015,0
+Water,Natural_gas_2015,0
+Pipeline,Natural_gas_2015,686.9
+Rail,Natural_gas_2015,0
+HIGHWAY ,Electricity_2015,3.7
+Light vehicles,Electricity_2015,3.4
+Buses,Electricity_2015,0.3
+Medium/heavy trucks,Electricity_2015,0
+NONHIGHWAY,Electricity_2015,104.2
+Air,Electricity_2015,0
+Water,Electricity_2015,0
+Pipeline,Electricity_2015,80.3
+Rail,Electricity_2015,24
+HIGHWAY ,Total_2015,21386.3
+Light vehicles,Total_2015,15200.1
+Buses,Total_2015,202.7
+Medium/heavy trucks,Total_2015,5983.6
+NONHIGHWAY,Total_2015,4493.2
+Air,Total_2015,2117.7
+Water,Total_2015,1045.6
+Pipeline,Total_2015,767.1
+Rail,Total_2015,562.8
+HIGHWAY ,Gasoline_2016,15650.2
+Light vehicles,Gasoline_2016,15023.9
+Buses,Gasoline_2016,8.9
+Medium/heavy trucks,Gasoline_2016,617.3
+NONHIGHWAY,Gasoline_2016,214.8
+Air,Gasoline_2016,22.6
+Water,Gasoline_2016,192.2
+Pipeline,Gasoline_2016,0
+Rail,Gasoline_2016,0
+HIGHWAY ,Diesel_fuel_2016,6121
+Light vehicles,Diesel_fuel_2016,443.2
+Buses,Diesel_fuel_2016,173.4
+Medium/heavy trucks,Diesel_fuel_2016,5504.4
+NONHIGHWAY,Diesel_fuel_2016,830.8
+Air,Diesel_fuel_2016,0
+Water,Diesel_fuel_2016,334
+Pipeline,Diesel_fuel_2016,0
+Rail,Diesel_fuel_2016,496.5
+HIGHWAY ,Liquified_petroleum_gas_2016,74.5
+Light vehicles,Liquified_petroleum_gas_2016,53.4
+Buses,Liquified_petroleum_gas_2016,0.6
+Medium/heavy trucks,Liquified_petroleum_gas_2016,20.5
+NONHIGHWAY,Liquified_petroleum_gas_2016,0
+Air,Liquified_petroleum_gas_2016,0
+Water,Liquified_petroleum_gas_2016,0
+Pipeline,Liquified_petroleum_gas_2016,0
+Rail,Liquified_petroleum_gas_2016,0
+HIGHWAY ,Jet_fuel_2016,0
+Light vehicles,Jet_fuel_2016,0
+Buses,Jet_fuel_2016,0
+Medium/heavy trucks,Jet_fuel_2016,0
+NONHIGHWAY,Jet_fuel_2016,2155.5
+Air,Jet_fuel_2016,2155.5
+Water,Jet_fuel_2016,0
+Pipeline,Jet_fuel_2016,0
+Rail,Jet_fuel_2016,0
+HIGHWAY ,Residual_fuel_oil_2016,0
+Light vehicles,Residual_fuel_oil_2016,0
+Buses,Residual_fuel_oil_2016,0
+Medium/heavy trucks,Residual_fuel_oil_2016,0
+NONHIGHWAY,Residual_fuel_oil_2016,627.7
+Air,Residual_fuel_oil_2016,0
+Water,Residual_fuel_oil_2016,627.7
+Pipeline,Residual_fuel_oil_2016,0
+Rail,Residual_fuel_oil_2016,0
+HIGHWAY ,Natural_gas_2016,23.3
+Light vehicles,Natural_gas_2016,0
+Buses,Natural_gas_2016,23.3
+Medium/heavy trucks,Natural_gas_2016,0
+NONHIGHWAY,Natural_gas_2016,719.1
+Air,Natural_gas_2016,0
+Water,Natural_gas_2016,0
+Pipeline,Natural_gas_2016,719.1
+Rail,Natural_gas_2016,0
+HIGHWAY ,Electricity_2016,5
+Light vehicles,Electricity_2016,4.7
+Buses,Electricity_2016,0.3
+Medium/heavy trucks,Electricity_2016,0
+NONHIGHWAY,Electricity_2016,104.4
+Air,Electricity_2016,0
+Water,Electricity_2016,0
+Pipeline,Electricity_2016,80.7
+Rail,Electricity_2016,23.7
+HIGHWAY ,Total_2016,21873.9
+Light vehicles,Total_2016,15525.3
+Buses,Total_2016,206.5
+Medium/heavy trucks,Total_2016,6142.1
+NONHIGHWAY,Total_2016,4652.2
+Air,Total_2016,2178.1
+Water,Total_2016,1153.9
+Pipeline,Total_2016,799.8
+Rail,Total_2016,520.2
+HIGHWAY ,Gasoline_2017,15495.3
+Light vehicles,Gasoline_2017,14853.3
+Buses,Gasoline_2017,9.9
+Medium/heavy trucks,Gasoline_2017,632
+NONHIGHWAY,Gasoline_2017,214.8
+Air,Gasoline_2017,22.6
+Water,Gasoline_2017,170.4
+Pipeline,Gasoline_2017,0
+Rail,Gasoline_2017,0
+HIGHWAY ,Diesel_fuel_2017,6266.5
+Light vehicles,Diesel_fuel_2017,445.9
+Buses,Diesel_fuel_2017,185
+Medium/heavy trucks,Diesel_fuel_2017,5635.6
+NONHIGHWAY,Diesel_fuel_2017,818.5
+Air,Diesel_fuel_2017,0
+Water,Diesel_fuel_2017,290.5
+Pipeline,Diesel_fuel_2017,0
+Rail,Diesel_fuel_2017,513.3
+HIGHWAY ,Liquified_petroleum_gas_2017,75.5
+Light vehicles,Liquified_petroleum_gas_2017,53.9
+Buses,Liquified_petroleum_gas_2017,0.6
+Medium/heavy trucks,Liquified_petroleum_gas_2017,21
+NONHIGHWAY,Liquified_petroleum_gas_2017,0
+Air,Liquified_petroleum_gas_2017,0
+Water,Liquified_petroleum_gas_2017,0
+Pipeline,Liquified_petroleum_gas_2017,0
+Rail,Liquified_petroleum_gas_2017,0
+HIGHWAY ,Jet_fuel_2017,0
+Light vehicles,Jet_fuel_2017,0
+Buses,Jet_fuel_2017,0
+Medium/heavy trucks,Jet_fuel_2017,0
+NONHIGHWAY,Jet_fuel_2017,2208.2
+Air,Jet_fuel_2017,2208.2
+Water,Jet_fuel_2017,0
+Pipeline,Jet_fuel_2017,0
+Rail,Jet_fuel_2017,0
+HIGHWAY ,Residual_fuel_oil_2017,0
+Light vehicles,Residual_fuel_oil_2017,0
+Buses,Residual_fuel_oil_2017,0
+Medium/heavy trucks,Residual_fuel_oil_2017,0
+NONHIGHWAY,Residual_fuel_oil_2017,669.5
+Air,Residual_fuel_oil_2017,0
+Water,Residual_fuel_oil_2017,669.5
+Pipeline,Residual_fuel_oil_2017,0
+Rail,Residual_fuel_oil_2017,0
+HIGHWAY ,Natural_gas_2017,24.6
+Light vehicles,Natural_gas_2017,0
+Buses,Natural_gas_2017,24.6
+Medium/heavy trucks,Natural_gas_2017,0
+NONHIGHWAY,Natural_gas_2017,743.9
+Air,Natural_gas_2017,0
+Water,Natural_gas_2017,0
+Pipeline,Natural_gas_2017,743.9
+Rail,Natural_gas_2017,0
+HIGHWAY ,Electricity_2017,6.8
+Light vehicles,Electricity_2017,6.6
+Buses,Electricity_2017,0.2
+Medium/heavy trucks,Electricity_2017,0
+NONHIGHWAY,Electricity_2017,104.7
+Air,Electricity_2017,0
+Water,Electricity_2017,0
+Pipeline,Electricity_2017,81.1
+Rail,Electricity_2017,23.6
+HIGHWAY ,Total_2017,21868.7
+Light vehicles,Total_2017,15359.8
+Buses,Total_2017,220.3
+Medium/heavy trucks,Total_2017,6288.6
+NONHIGHWAY,Total_2017,4723.2
+Air,Total_2017,2230.8
+Water,Total_2017,1130.4
+Pipeline,Total_2017,825
+Rail,Total_2017,536.9
+HIGHWAY ,Gasoline_2018,15366.1
+Light vehicles,Gasoline_2018,14717.5
+Buses,Gasoline_2018,10.5
+Medium/heavy trucks,Gasoline_2018,638.1
+NONHIGHWAY,Gasoline_2018,198.1
+Air,Gasoline_2018,26.7
+Water,Gasoline_2018,171.4
+Pipeline,Gasoline_2018,0
+Rail,Gasoline_2018,0
+HIGHWAY ,Diesel_fuel_2018,6324.3
+Light vehicles,Diesel_fuel_2018,444.9
+Buses,Diesel_fuel_2018,189.6
+Medium/heavy trucks,Diesel_fuel_2018,5689.8
+NONHIGHWAY,Diesel_fuel_2018,867.5
+Air,Diesel_fuel_2018,0
+Water,Diesel_fuel_2018,332.2
+Pipeline,Diesel_fuel_2018,0
+Rail,Diesel_fuel_2018,535.4
+HIGHWAY ,Liquified_petroleum_gas_2018,75.3
+Light vehicles,Liquified_petroleum_gas_2018,53.9
+Buses,Liquified_petroleum_gas_2018,0.3
+Medium/heavy trucks,Liquified_petroleum_gas_2018,21.2
+NONHIGHWAY,Liquified_petroleum_gas_2018,0
+Air,Liquified_petroleum_gas_2018,0
+Water,Liquified_petroleum_gas_2018,0
+Pipeline,Liquified_petroleum_gas_2018,0
+Rail,Liquified_petroleum_gas_2018,0
+HIGHWAY ,Jet_fuel_2018,0
+Light vehicles,Jet_fuel_2018,0
+Buses,Jet_fuel_2018,0
+Medium/heavy trucks,Jet_fuel_2018,0
+NONHIGHWAY,Jet_fuel_2018,2331.5
+Air,Jet_fuel_2018,2331.5
+Water,Jet_fuel_2018,0
+Pipeline,Jet_fuel_2018,0
+Rail,Jet_fuel_2018,0
+HIGHWAY ,Residual_fuel_oil_2018,0
+Light vehicles,Residual_fuel_oil_2018,0
+Buses,Residual_fuel_oil_2018,0
+Medium/heavy trucks,Residual_fuel_oil_2018,0
+NONHIGHWAY,Residual_fuel_oil_2018,616.4
+Air,Residual_fuel_oil_2018,0
+Water,Residual_fuel_oil_2018,616.4
+Pipeline,Residual_fuel_oil_2018,0
+Rail,Residual_fuel_oil_2018,0
+HIGHWAY ,Natural_gas_2018,25.4
+Light vehicles,Natural_gas_2018,0
+Buses,Natural_gas_2018,25.4
+Medium/heavy trucks,Natural_gas_2018,0
+NONHIGHWAY,Natural_gas_2018,889.6
+Air,Natural_gas_2018,0
+Water,Natural_gas_2018,0
+Pipeline,Natural_gas_2018,889.6
+Rail,Natural_gas_2018,0
+HIGHWAY ,Electricity_2018,9.8
+Light vehicles,Electricity_2018,9.6
+Buses,Electricity_2018,0.2
+Medium/heavy trucks,Electricity_2018,0
+NONHIGHWAY,Electricity_2018,107.4
+Air,Electricity_2018,0
+Water,Electricity_2018,0
+Pipeline,Electricity_2018,83.3
+Rail,Electricity_2018,24.1
+HIGHWAY ,Total_2018,21800.9
+Light vehicles,Total_2018,15225.9
+Buses,Total_2018,225.9
+Medium/heavy trucks,Total_2018,6349
+NONHIGHWAY,Total_2018,5010.6
+Air,Total_2018,2358.2
+Water,Total_2018,1120
+Pipeline,Total_2018,972.9
+Rail,Total_2018,559.5
+HIGHWAY ,Gasoline_2019,15278.3
+Light vehicles,Gasoline_2019,14640.3
+Buses,Gasoline_2019,10.4
+Medium/heavy trucks,Gasoline_2019,627.6
+NONHIGHWAY,Gasoline_2019,194.4
+Air,Gasoline_2019,22.6
+Water,Gasoline_2019,171.9
+Pipeline,Gasoline_2019,0
+Rail,Gasoline_2019,0
+HIGHWAY ,Diesel_fuel_2019,6237.2
+Light vehicles,Diesel_fuel_2019,454.5
+Buses,Diesel_fuel_2019,186.3
+Medium/heavy trucks,Diesel_fuel_2019,5596.4
+NONHIGHWAY,Diesel_fuel_2019,812.5
+Air,Diesel_fuel_2019,0
+Water,Diesel_fuel_2019,309.5
+Pipeline,Diesel_fuel_2019,0
+Rail,Diesel_fuel_2019,502.9
+HIGHWAY ,Liquified_petroleum_gas_2019,76.4
+Light vehicles,Liquified_petroleum_gas_2019,55.4
+Buses,Liquified_petroleum_gas_2019,0.2
+Medium/heavy trucks,Liquified_petroleum_gas_2019,20.8
+NONHIGHWAY,Liquified_petroleum_gas_2019,0
+Air,Liquified_petroleum_gas_2019,0
+Water,Liquified_petroleum_gas_2019,0
+Pipeline,Liquified_petroleum_gas_2019,0
+Rail,Liquified_petroleum_gas_2019,0
+HIGHWAY ,Jet_fuel_2019,0
+Light vehicles,Jet_fuel_2019,0
+Buses,Jet_fuel_2019,0
+Medium/heavy trucks,Jet_fuel_2019,0
+NONHIGHWAY,Jet_fuel_2019,2347.4
+Air,Jet_fuel_2019,2347.4
+Water,Jet_fuel_2019,0
+Pipeline,Jet_fuel_2019,0
+Rail,Jet_fuel_2019,0
+HIGHWAY ,Residual_fuel_oil_2019,0
+Light vehicles,Residual_fuel_oil_2019,0
+Buses,Residual_fuel_oil_2019,0
+Medium/heavy trucks,Residual_fuel_oil_2019,0
+NONHIGHWAY,Residual_fuel_oil_2019,530.5
+Air,Residual_fuel_oil_2019,0
+Water,Residual_fuel_oil_2019,530.5
+Pipeline,Residual_fuel_oil_2019,0
+Rail,Residual_fuel_oil_2019,0
+HIGHWAY ,Natural_gas_2019,26.7
+Light vehicles,Natural_gas_2019,0
+Buses,Natural_gas_2019,26.7
+Medium/heavy trucks,Natural_gas_2019,0
+NONHIGHWAY,Natural_gas_2019,973.5
+Air,Natural_gas_2019,0
+Water,Natural_gas_2019,0
+Pipeline,Natural_gas_2019,973.5
+Rail,Natural_gas_2019,0
+HIGHWAY ,Electricity_2019,14.2
+Light vehicles,Electricity_2019,14
+Buses,Electricity_2019,0.2
+Medium/heavy trucks,Electricity_2019,0
+NONHIGHWAY,Electricity_2019,109.2
+Air,Electricity_2019,0
+Water,Electricity_2019,0
+Pipeline,Electricity_2019,84.6
+Rail,Electricity_2019,24.6
+HIGHWAY ,Total_2019,21632.8
+Light vehicles,Total_2019,15164.2
+Buses,Total_2019,223.8
+Medium/heavy trucks,Total_2019,6244.8
+NONHIGHWAY,Total_2019,4967.6
+Air,Total_2019,2370
+Water,Total_2019,1011.9
+Pipeline,Total_2019,1058.1
+Rail,Total_2019,527.5
